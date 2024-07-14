@@ -1,0 +1,2736 @@
+{
+  "users": [
+    {
+      "1": "",
+      "username": "admin",
+      "nickName": "管理员",
+      "password": "123456",
+      "mobile": "18526368895",
+      "gender": "3",
+      "id": 1
+    },
+    {
+      "username": "eternity",
+      "nickName": "eternity",
+      "password": "13579",
+      "mobile": "13012345678",
+      "gender": "2",
+      "id": 2
+    },
+    {
+      "username": "Pied Pier",
+      "nickName": "Pied Pier",
+      "password": "123456",
+      "mobile": "18612348765",
+      "gender": "2",
+      "id": 3
+    },
+    {
+      "username": "蛋鱼",
+      "nickName": "蛋鱼",
+      "password": "123456",
+      "mobile": "18562359623",
+      "gender": "2",
+      "id": 4
+    },
+    {
+      "username": "什么",
+      "nickName": "什么",
+      "password": "123456",
+      "mobile": "15263547856",
+      "gender": "2",
+      "id": 5
+    }
+  ],
+  "courses": [
+    {
+      "courseName": "XC12 ITAIP-信息系统适配验证师（中级）（含考试）",
+      "direction": "项目管理",
+      "post": "系统工程师",
+      "mode": "录播",
+      "mainImg": "e90f3236-72df-4be6-9a02-0bd3c08bb236.png",
+      "hours": "14",
+      "startDate": "2024-07-25",
+      "tag": "录播",
+      "intro": "XC12 ITAIP-信息系统适配验证师（中级）（含考试）",
+      "price": "4500",
+      "teacherName": " 王林",
+      "teacherIntro": "王林老师具有多年的软件项目设计，开发和技术支持经验。2004年开始，致力于软件开发技术的培训和服务，具有丰富的理论和实战经验。作为MCSD中文网络广播特约讲师，在微软MSDN网站上播出的微软Azure技术的视频课程受到全国学员的一致好评。为微软中国，人民银行，招商银行，大庆油田，海关总署，现代汽车，大众汽车等企业提供技术咨询和开发技术培训，获得企业一致好评。 收起",
+      "description": [
+        "355ae467-d231-442a-9402-f170da8b85a2.png",
+        "c96627bb-772f-4917-ae9f-4240f111f201.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 1
+    },
+    {
+      "courseName": "Vuejs",
+      "direction": "项目管理",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "9c768751-354c-4403-99f6-6dbba2f99361.jpeg",
+      "hours": "20",
+      "startDate": "2024-07-13",
+      "tag": "优惠",
+      "intro": "Vuejs课程的简介",
+      "price": "200",
+      "teacherName": "张三",
+      "teacherIntro": "这是张三讲师简介",
+      "description": [
+        "55d41cd9-643c-4cfe-807b-a3f16039d17f.jpg"
+      ],
+      "sortNum": 2,
+      "status": "1",
+      "id": 2
+    },
+    {
+      "courseName": "华为数通 HCIA-Datacom[V1.0]",
+      "direction": "项目管理",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "22834d51-e524-40a5-8a7a-a62112003e60.png",
+      "hours": "12",
+      "startDate": "2024-07-10",
+      "tag": "周末班，北京",
+      "intro": "\"东方瑞通IT国际认证考试中心，年交付考量超3万门次，同时拥有VUE、Prometric（普尔文）、KCP、PeopleCert、PSI、APMG、CASTLE、Certiport七家考试中心授权，在北京、上海、广州、深圳、天津、武汉、济南、成都、西安九大城市设有考场，周一至周五全天开放，提供超过10000门次的各类国际认证考试，严谨及规范的考试管理被公认为业界的“教科书”。\"",
+      "price": "2125",
+      "teacherName": "蔡轶",
+      "teacherIntro": "蔡老师善于在教学中把实际的工程问题转化为实验现象，带领学员完整理解每个课题，他曾经服务过的项目及培训客户包括：英国大使馆服务器搭建以及防火墙调试；华北航天工业学院校园网三期改造工程；美国利宝互助保险公司网络升级与改造项目；天津药业集团网络升级与改造项目，",
+      "description": [
+        "1d7dab05-f430-4cf7-ad27-1521a9bd35cd.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 3
+    },
+    {
+      "courseName": "华为存储 HCIA-Storage V5.0",
+      "direction": "项目管理",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "666f6e2f-7b0c-4068-9eb9-d1d6a293dc6c.png",
+      "hours": "30",
+      "startDate": "2024-07-17",
+      "tag": "周末班，全国",
+      "intro": "可以让您掌握存储技术趋势，存储基础技术，华为智能存储产品及特性、存储系统运维管理等知识和技能，具备对存储系统进行基础部署、运维和管理的能力。",
+      "price": "1258",
+      "teacherName": "马老师",
+      "teacherIntro": "马宇坤老师自2011年以来，一直从事华为、阿里、思科、红帽、Oracle产品的研究、培训和推广工作。",
+      "description": [
+        "76cca5d1-e1f8-42b3-a6b8-f333f125a1b4.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 4
+    },
+    {
+      "courseName": "PeopleCert ITIL® 4 Foundation认证",
+      "direction": "IT管理",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "e8c51980-548e-43c8-8cb2-1eceb0688167.png",
+      "hours": "12",
+      "startDate": "2024-07-15",
+      "tag": "周末班，北京",
+      "intro": "ITL即IT基础架构库，为了应对行业不断增长的对IT服务的要求，提供IT管理的实践，由英国商务部开发。",
+      "price": "1980",
+      "teacherName": "祝文彬",
+      "teacherIntro": "20多年IT行业从业经验，17年IT服务管理经验，12年高校工作经验。 曾为海关总署、国税总局、中国移动、中国联通、国家开发银行、日本三菱银行、中国惠普、西门子（中国）、戴姆勒（中国）、大众（中国）、宝马（中国）、博世（中国）等单位讲授ITIL、ISO 20000、PRINCE2等课程。 曾主持海信集团、链家地产、北京地税、中航技、用友集团等单位的ITSM咨询项目。1982年毕业于河海大学（211学校），获学士学位；1997年毕业于北京航空航天大学（211/985学校），获硕士学位。",
+      "description": [
+        "02025b64-4933-4e22-8190-47ffbc821a26.png",
+        "8695b76d-d442-44a0-9557-ace745384208.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 5
+    },
+    {
+      "courseName": " t12678 TOGAF® 9企业架构规划与设计(含考试）",
+      "direction": "IT管理",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "9c12d937-7cc9-4904-b843-2578db38d7f0.png",
+      "hours": "20",
+      "startDate": "2024-07-01",
+      "tag": "周末班，北京",
+      "intro": "师生互动，案例研讨和样本计划相结合，通过每个模板的课堂实践、实验和演练对企业架构有切身的体验。",
+      "price": "7980",
+      "teacherName": "张老师",
+      "teacherIntro": "无",
+      "description": [
+        "201fc84b-334e-40c0-9bca-4dfda6cd1a5e.png",
+        "455b7f84-e808-4a27-90fa-df293a651343.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 6
+    },
+    {
+      "courseName": "CISP注册信息安全专业人员",
+      "direction": "数字安全",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "a2f02739-b03a-4efc-bd1f-c48afd5adc68.png",
+      "hours": "14",
+      "startDate": "2024-07-22",
+      "tag": "周末班，全国",
+      "intro": "将近300个知识点，精辟提炼。把相对枯燥的知识用生动形象的方式表现出来，降低学习记忆的难度，提高学员学习兴趣，形成完整的知识体系。",
+      "price": "9600",
+      "teacherName": "崔佳",
+      "teacherIntro": "幽默、生动，层次感强，结构清晰，深入浅出，语言风格沉稳和收敛；在 PMP®考前培训的辅导方面具有独到的方法，积 累了大量的授课经验，授课学员一次通过 PMP®率达到 90%以上。多年的运营商技术外包服务经历及央企和银行信息化项 目现场感悟，增加了授课的效度和信度；体验式授课方式，讲求“认知——思维——行动”的体验式教学法，“传递思想， 以事说理”，用身边的实例让学员体会并思考，感悟而收获。",
+      "description": [
+        "a24a33cc-8b84-4f0a-9260-8e467b6be03a.png",
+        "de0cc6b4-8a16-4de5-b26f-6802663b0020.png",
+        "13828c0c-c065-42ba-8497-71ca9b70c9a7.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 7
+    },
+    {
+      "courseName": "华为Cloud-HCIP-云计算高级工程师",
+      "direction": "数字安全",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "7bdd4dcb-c089-4f44-af95-667b00de9199.png",
+      "hours": "10",
+      "startDate": "2024-07-11",
+      "tag": "周末班，北京",
+      "intro": "考试覆盖开源OPENStark和华为云Stark两大模块知识点，华为云Stark架构、产品组件及公共组件介绍，华为云Stark计算、存储、网络等基础IaaS层服务的原理及使用介绍。",
+      "price": "4488",
+      "teacherName": "韩梅",
+      "teacherIntro": "韩梅老师有着数十年的IT从业经验和专业的培训经验，曾为上百家世界五百强企业提供过技术培训和专家咨询。熟悉各类IT技术，其技术不仅涵盖服务器，存储，网络，虚拟化，企业数据中心灾备等传统IT技术，而且也涵盖云原生及开源等领域技术。有着丰富的IT技术功底以及出众的授课能力。现同时是微软，阿里，华为，Redhat等多家厂商的官方认证讲师。",
+      "description": [
+        "59f1040e-6446-49da-84f7-7528326eb638.png",
+        "387c4596-b1e7-4a8d-b45f-5a9d15f7ec17.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 8
+    },
+    {
+      "courseName": "软考高级-信息系统项目管理师",
+      "direction": "软考",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "01edd73c-06d5-4c28-8049-29cedaeb6bfb.png",
+      "hours": "26",
+      "startDate": "2024-07-25",
+      "tag": "周末班，全国",
+      "intro": "软考高级-信息系统项目管理师",
+      "price": "2880",
+      "teacherName": "寇翔淋",
+      "teacherIntro": "寇翔淋老师，高级工程师，十多年的IT项目经验及项目管理经验，多年企业信息化建设经验，拥有国营企业、外资企业（海外工作经历）、上市公司、创业公司的丰富经历，从事制造业、银行证券、政务、税务、民政系统项目的信息系统的设计和研发工作，在信息系统设计、研发、信息安全、项目管理、团队管理、企业体系建设方面丰富的经验。",
+      "description": [
+        "0a7dc3de-bc36-4e6c-a3cc-a9632fcccde9.png",
+        "1c4be443-957b-434a-be19-c62014c7e4ca.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 9
+    },
+    {
+      "courseName": "华为安全 HCIA-Security V4.0",
+      "direction": "软考",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "8cbb78a8-9879-4386-b00a-3e4aaffabc63.png",
+      "hours": "15",
+      "startDate": "2024-07-04",
+      "tag": "周末班，全国",
+      "intro": "华为安全 HCIA-Security V4.0",
+      "price": "1258",
+      "teacherName": "丁臣臣",
+      "teacherIntro": "丁臣臣老师自2017年一直投身于华为ICT人才培养，从事华为相关技术教学工作5年，项目实战经验3年，培训学员3千余名，学员都在华为人才产业链不同层次中取得优质岗位，同时为各大高校进行专业授课，担任师资培训、企业内训主导讲师、企业聘请为技术顾问，曾担任国家电网公司网络规划设计师&培训讲师，为国电公司数据网规划设计改造VPN网络，以及国网各单位数据网专工进行培训赋能技术提升。",
+      "description": [
+        "165ee364-c405-41b9-b605-73ffbb32b458.png",
+        "a337bc74-bcc4-4ff1-9212-394c273b0dbd.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 10
+    },
+    {
+      "courseName": "红帽RHCE认证及实战课程V9.0",
+      "direction": "运维",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "f7a4a96a-a084-4f26-b29a-fe90d08b0357.png",
+      "hours": "13",
+      "startDate": "2024-07-25",
+      "tag": "脱产+周末，全国",
+      "intro": "红帽RHCE认证及实战课程V9.0",
+      "price": "3383",
+      "teacherName": "苏振",
+      "teacherIntro": "从事职业教育十多年，也在软件公司做Linux方面的技术研究。所以具有丰富的应试教学及应用实践，还有丰富的理论和教学经验。曾为众多500强企业做过内训，也经常交付一些认证类的公开课，大学的实训。积累了丰富的企业实战应用示例，将理论与实践相结合，对比渗透的教学方法融入整体教学过程，并强调引导学员利用信念、助教、沟通的思路和方法。教学风格诙谐幽默，在愉悦的环境中学员学习新知识更易于理解吸收",
+      "description": [
+        "aca4d45d-cc9e-49bb-9569-90062d32edf0.png",
+        "80753354-385b-4624-b844-b8d3129535af.png",
+        "19bc16f5-c46c-4c13-bfba-4d1cef8c482f.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 11
+    },
+    {
+      "courseName": "红帽 OpenStack 管理二：云运维人员需掌握的运维（CL210",
+      "direction": "运维",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "8062ba17-1021-4cba-9cd7-a8d49c7ee20d.png",
+      "hours": "22",
+      "startDate": "2024-07-24",
+      "tag": "周末班，全国",
+      "intro": "红帽 OpenStack 管理二：云运维人员需掌握的运维（CL210",
+      "price": "4080",
+      "teacherName": "苏振",
+      "teacherIntro": "从事职业教育十多年，也在软件公司做Linux方面的技术研究。所以具有丰富的应试教学及应用实践，还有丰富的理论和教学经验。曾为众多500强企业做过内训，也经常交付一些认证类的公开课，大学的实训。积累了丰富的企业实战应用示例，将理论与实践相结合，对比渗透的教学方法融入整体教学过程，并强调引导学员利用信念、助教、沟通的思路和方法。教学风格诙谐幽默，在愉悦的环境中学员学习新知识更易于理解吸收。",
+      "description": [
+        "3eedcea6-75a1-4eed-ab25-dc55b50351bf.png",
+        "0f6d72e5-9925-4b55-8496-c51b2a71bb72.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 12
+    },
+    {
+      "courseName": "微软认证 Azure 管理员",
+      "direction": "云计算",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "cc3d9f10-0eeb-44ac-aebb-9e6fdbcd9f1f.png",
+      "hours": "33",
+      "startDate": "2024-07-01",
+      "tag": "周末班，北京",
+      "intro": "微软认证 Azure 管理员",
+      "price": "6970",
+      "teacherName": "刘兆生",
+      "teacherIntro": "刘兆生老师具有多年的软件项目设计，开发和技术支持经验。2004年开始，致力于软件开发技术的培训和服务，具有丰富的理论和实战经验。作为MCSD中文网络广播特约讲师，在微软MSDN网站上播出的微软Azure技术的视频课程受到全国学员的一致好评。为微软中国，人民银行，招商银行，大庆油田，海关总署，现代汽车，大众汽车等企业提供技术咨询和开发技术培训，获得企业一致好评。 ",
+      "description": [
+        "7998393f-2f60-45a3-b6a7-4fc08cc7b706.png",
+        "67bfe462-ff16-4c6f-9ef8-ef14c4466122.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 13
+    },
+    {
+      "courseName": "阿里云云计算ACP",
+      "direction": "云计算",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "21671fd2-107d-47f7-89c2-f75f4019d1cd.png",
+      "hours": "11",
+      "startDate": "2024-07-02",
+      "tag": "周末班，北京",
+      "intro": "阿里云云计算ACP",
+      "price": "3800",
+      "teacherName": "李晓辉",
+      "teacherIntro": "李晓辉老师拥有十年以上的大型企业IT服务项目经验，资深讲师；多年来一直从事IT技术研究与培训教育行业，具备非常丰富的理论及教学经验，曾交付数千场公开课以及企业内训，有着众多的丰富的实战经验和项目经验，熟悉OpenStack架构管理、Docker容器、Kubernetes架构设计、Ceph 分布式存储、OpenShift 运维管理、DevOps自动化运维等开源技术。多次主导大型跨国架构规划和落地项目，拥有丰富的业务系统架构规划及项目实施经验。具备大量来自一线的经验以及良好的教学风格，在轻松的学习氛围中让学员获得知识。",
+      "description": [
+        "dc914dd3-d59f-4232-a002-d28e0d0820dd.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 14
+    },
+    {
+      "courseName": "达梦课程-DCA-DM8-V1.0",
+      "direction": "数据库",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "2fd16d04-1c00-45d9-9b7e-e05d55f0c4e6.png",
+      "hours": "24",
+      "startDate": "2024-07-09",
+      "tag": "周末班，北京",
+      "intro": "达梦课程-DCA-DM8-V1.0",
+      "price": "2900",
+      "teacherName": "姚老师",
+      "teacherIntro": "姚老师具有17年的数据库管理和维护经验，被学员评价为“神级讲师，技术大牛”！曾做过的项目有：武汉医疗救治中心医疗信息化改造，北京2008奥运会残奥会IT技术保障项目，陕西安康公安局警务综合平台数据库系统升级，上海Cooper存储改造项目，西安印钞厂存储改造项目，他严谨的授课风格，保证了认证的通过率！",
+      "description": [
+        "cd4588ec-de7a-46f1-8cc1-11d1504d4e59.png",
+        "5436ff32-1acf-4101-8968-c87cf78fac64.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 15
+    },
+    {
+      "courseName": "PGCA初级",
+      "direction": "数据库",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "46875388-3871-44c8-bb77-84f41e6e709e.png",
+      "hours": "22",
+      "startDate": "2024-07-17",
+      "tag": "周末班，全国",
+      "intro": "PGCA初级",
+      "price": "1530",
+      "teacherName": "孟兆文",
+      "teacherIntro": "孟兆文老师具有十余年企业IT技能培训工作以及项目实战经验。授课幽默、富有活力和亲和力，把与客户的交流和互动放在首位。扎实的理论基础、实践经验和对微软产品的深入研究，可以从客户的日常需求出发进行讲解和演示，解答客户提出的各类问题。并能在课程的一开始便迅速抓住客户心理，有很强的控场及应变能力，深受客户的好评。多年来从事微软、华为、阿里等多家厂商产品，涉及操作系统、数据库、应用服务以及办公软件等多个产品的教学及应用研究；多次支持微软官方市场活动，微软技术大会，并且为多家世界500强企业提供培训及技术支持。积累了丰富的企业实战应用示例，主要涉及教育、银行、保险、医药等诸多行业领域。",
+      "description": [
+        "6e7477fe-4661-4517-8654-21009e3c0df1.png",
+        "43a551d5-5d35-44d6-a3e0-e82419e19632.png",
+        "fe68d4bb-043d-4186-b51d-2e3f4c5d5539.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 16
+    },
+    {
+      "courseName": "Python语言应用编程",
+      "direction": "软件开发",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "049f9b00-178f-44f7-a6c6-f008b9f6e167.png",
+      "hours": "12",
+      "startDate": "2024-07-16",
+      "tag": "周末班，全国",
+      "intro": "Python语言应用编程",
+      "price": "7980",
+      "teacherName": "林老师",
+      "teacherIntro": "无",
+      "description": [
+        "fcd06c42-3f67-42af-a79b-2ad27d4a2710.png",
+        "18eded72-78a1-4c94-a535-11a659ada85d.png",
+        "7d771476-9642-4e15-8e88-ad2f1022b680.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 17
+    },
+    {
+      "courseName": "Python人工智能",
+      "direction": "软件开发",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "2b2bd33c-5bb8-4147-8edc-790c689401d1.png",
+      "hours": "48",
+      "startDate": "2024-07-23",
+      "tag": "周末班，北京",
+      "intro": "Python人工智能",
+      "price": "7980",
+      "teacherName": "梁鹏",
+      "teacherIntro": "华为大数据认证专家，全球首位华为人工智能认证专家，现任东方瑞通开发方向教研总监&专家级讲师。具有10年软件从业经验,曾任花旗银行工程师,学通天下技术架构师,参与并主导仓储物流供应链OMS系统，WMS系统，TMS系统，BMS系统平台的研发。年均150天企业内训经验，项目开发实战派讲师。",
+      "description": [
+        "c5141981-010f-4050-874f-422dbb257617.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 18
+    },
+    {
+      "courseName": "华为安全HCIP- Security 4.0",
+      "direction": "办公应用",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "20aee5f2-cb2e-432b-a950-2f4862603896.png",
+      "hours": "22",
+      "startDate": "2024-07-16",
+      "tag": "周末班，广州",
+      "intro": "华为安全HCIP- Security 4.0",
+      "price": "4488",
+      "teacherName": "丁臣臣",
+      "teacherIntro": "丁臣臣老师自2017年一直投身于华为ICT人才培养，从事华为相关技术教学工作5年，项目实战经验3年，培训学员3千余名，学员都在华为人才产业链不同层次中取得优质岗位，同时为各大高校进行专业授课，担任师资培训、企业内训主导讲师、企业聘请为技术顾问，曾担任国家电网公司网络规划设计师&培训讲师，为国电公司数据网规划设计改造VPN网络，以及国网各单位数据网专工进行培训赋能技术提升",
+      "description": [
+        "6b4993fd-6f57-4175-b774-caeeae8f52b8.png",
+        "8d2d4c97-3d4b-4faf-9a66-3ba6eed9008c.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 19
+    },
+    {
+      "courseName": "Excel VBA——设计与开发实战",
+      "direction": "办公应用",
+      "post": "网络工程师",
+      "mode": "直播",
+      "mainImg": "96f5b265-0635-4cd1-afb8-d35716ac0202.png",
+      "hours": "24",
+      "startDate": "2024-07-31",
+      "tag": "无",
+      "intro": "Excel VBA——设计与开发实战",
+      "price": "2720",
+      "teacherName": "彭巽言",
+      "teacherIntro": "彭老师连续多年作为微软特邀讲师，为上百家大中企业员工提供培训及技术顾问服务。有些客户连续多年的培训均由彭老师主讲，一直得到客户的认可。包括：爱立信：连续多年超过二十场的VBA开发实战、Power BI大数据分析、Office系列培训东莞供电局：多场Python自动化编程、WPS办公技能提升培训广汽乘用车：连续多年多场培训，包括Python自动化办公、Office办公技能提升培训广汽本田：2012年至今累计超过百场办公软件技能提升培训、VBA及Python办公自动化开发培训三星：连续多年Office系列培训，其中东莞分公司员工参加培训后在三星集团VBA竞赛中获得第一名",
+      "description": [
+        "33b9f569-5dde-4cf8-8c16-2157eb7405a9.png",
+        "bf39e32a-869c-4eed-b65d-3473a587d5bf.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 20
+    },
+    {
+      "courseName": "容器&Kubernetes认证管理员(CKA)",
+      "direction": "项目管理",
+      "post": "系统工程师",
+      "mode": "直播",
+      "mainImg": "9c04130a-087c-4957-a6dd-f48901a473a7.png",
+      "hours": "14",
+      "startDate": "2024-07-19",
+      "tag": "周末班，全国",
+      "intro": "容器&Kubernetes认证管理员(CKA)",
+      "price": "2680",
+      "teacherName": "韩梅",
+      "teacherIntro": "韩梅老师有着数十年的IT从业经验和专业的培训经验，曾为上百家世界五百强企业提供过技术培训和专家咨询。熟悉各类IT技术，其技术不仅涵盖服务器，存储，网络，虚拟化，企业数据中心灾备等传统IT技术，而且也涵盖云原生及开源等领域技术。有着丰富的IT技术功底以及出众的授课能力。现同时是微软，阿里，华为，Redhat等多家厂商的官方认证讲师。",
+      "description": [
+        "d57f373f-9680-490b-aa05-344ad1ce80d7.png",
+        "41aa3bbc-ad3d-4ee8-af77-cf10e49b9718.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 21
+    },
+    {
+      "courseName": "产品经理国际资格认证（NPDP）",
+      "direction": "项目管理",
+      "post": "系统工程师",
+      "mode": "直播",
+      "mainImg": "f3c354b9-71ba-48b6-a049-654a3304e497.png",
+      "hours": "12",
+      "startDate": "2024-07-13",
+      "tag": "周末班，北京",
+      "intro": "产品经理国际资格认证（NPDP）",
+      "price": "4488",
+      "teacherName": "李老师",
+      "teacherIntro": "李老师十余年世界500强央企驻海外项目管理从业经验，曾担任驻外分公司现场负责人等职位，国际项目工程管理与国际贸易背景。工作中专注于项目管理、计划管理、目标管理、相关方管理的研究及实践。具有多年企业内部课程培训经验，以及项目管理PMP、敏捷项目管理ACP、产品管理NPDP、商业分析PBA认证公开课、软考高项考前辅导课、项目管理体验式沙盘课程开发讲授经验",
+      "description": [
+        "e2d2dd69-6e33-4a93-9e58-1facc0d908a1.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 22
+    },
+    {
+      "courseName": "PeopleCert ITIL® 4 Foundation认证（中文版）",
+      "direction": "IT管理",
+      "post": "系统工程师",
+      "mode": "直播",
+      "mainImg": "48775410-eb80-4faa-b65e-f1283c9b50de.png",
+      "hours": "24",
+      "startDate": "2024-07-29",
+      "tag": "周末班，北京",
+      "intro": "PeopleCert ITIL® 4 Foundation认证（中文版）",
+      "price": "1980",
+      "teacherName": "祝文彬",
+      "teacherIntro": "20多年IT行业从业经验，17年IT服务管理经验，12年高校工作经验。 曾为海关总署、国税总局、中国移动、中国联通、国家开发银行、日本三菱银行、中国惠普、西门子（中国）、戴姆勒（中国）、大众（中国）、宝马（中国）、博世（中国）等单位讲授ITIL、ISO 20000、PRINCE2等课程。 曾主持海信集团、链家地产、北京地税、中航技、用友集团等单位的ITSM咨询项目。1982年毕业于河海大学（211学校），获学士学位；1997年毕业于北京航空航天大学（211/985学校），获硕士学位。",
+      "description": [
+        "118fdf48-b8bb-4bd4-a4c7-cebbe66d926d.png",
+        "49937791-01c7-4f39-952a-7b636dec1cbd.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 23
+    },
+    {
+      "courseName": "DAMA数据治理工程师CDGA",
+      "direction": "IT管理",
+      "post": "系统工程师",
+      "mode": "直播",
+      "mainImg": "ebad0b1a-0120-40df-91d5-92c48bbcbf4d.png",
+      "hours": "10",
+      "startDate": "2024-07-20",
+      "tag": "周末班，全国",
+      "intro": "DAMA数据治理工程师CDGA",
+      "price": "4000",
+      "teacherName": "王老师",
+      "teacherIntro": "王老师沈阳工业大学经管学院 MEM 信息工程硕士，拥有IT行业17年以上、数据治理与管理领域8年从业经验，在央企信息化领域、大型集团企业具有丰富的数字化顶层设计、数据治理及标准化经验，长期致力于石油、电网、军工等行业的数据管理项目的规划与实施，在本领域拥有扎实的理论和实践经验",
+      "description": [
+        "64301a79-47bc-45f0-b3bf-38b61da33250.png",
+        "921ec3f4-1dd2-40a8-bc1a-edd2b0ed5e6e.png",
+        "f995d538-b230-40ba-93d9-5f5f9301a3a5.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 24
+    },
+    {
+      "courseName": "CDSP数据安全认证专家",
+      "direction": "数字安全",
+      "post": "系统工程师",
+      "mode": "直播",
+      "mainImg": "0d52c23f-0973-4fb7-96a7-438dd4e86cfd.png",
+      "hours": "48",
+      "startDate": "2024-07-02",
+      "tag": "周末班，全国",
+      "intro": "CDSP数据安全认证专家",
+      "price": "4250",
+      "teacherName": "寇翔淋",
+      "teacherIntro": "寇翔淋老师，高级工程师，十多年的IT项目经验及项目管理经验，多年企业信息化建设经验，拥有国营企业、外资企业（海外工作经历）、上市公司、创业公司的丰富经历，从事制造业、银行证券、政务、税务、民政系统项目的信息系统的设计和研发工作，在信息系统设计、研发、信息安全、项目管理、团队管理、企业体系建设方面丰富的经验。",
+      "description": [
+        "2dedbae5-3e3c-4176-8ce4-651f3eb92671.png",
+        "62e38087-78bb-4ab0-9657-8b84495fd90d.png",
+        "35aac320-b2c9-4e92-b77e-1ebf98fa6343.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 25
+    },
+    {
+      "courseName": "软考高级-信息系统项目管理师",
+      "direction": "软考",
+      "post": "系统工程师",
+      "mode": "直播",
+      "mainImg": "c072b50a-dfab-4511-a8be-5bc1d79ba725.png",
+      "hours": "44",
+      "startDate": "2024-07-19",
+      "tag": "周末班，全国",
+      "intro": "软考高级-信息系统项目管理师",
+      "price": "3655",
+      "teacherName": "寇翔淋",
+      "teacherIntro": "寇翔淋老师，高级工程师，十多年的IT项目经验及项目管理经验，多年企业信息化建设经验，拥有国营企业、外资企业（海外工作经历）、上市公司、创业公司的丰富经历，从事制造业、银行证券、政务、税务、民政系统项目的信息系统的设计和研发工作，在信息系统设计、研发、信息安全、项目管理、团队管理、企业体系建设方面丰富的经验。",
+      "description": [
+        "a4a18cb5-7f5b-40ca-9a33-bb433eafefc2.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 26
+    },
+    {
+      "courseName": "KYCA麒麟操作系统运维工程师",
+      "direction": "运维",
+      "post": "系统工程师",
+      "mode": "直播",
+      "mainImg": "e754955a-dee0-47bd-a1f5-da29bcd5796a.png",
+      "hours": "12",
+      "startDate": "2024-07-16",
+      "tag": "周末班，北京",
+      "intro": "KYCA麒麟操作系统运维工程师",
+      "price": "2000",
+      "teacherName": "苏振",
+      "teacherIntro": "从事职业教育十多年，也在软件公司做Linux方面的技术研究。所以具有丰富的应试教学及应用实践，还有丰富的理论和教学经验。曾为众多500强企业做过内训，也经常交付一些认证类的公开课，大学的实训。积累了丰富的企业实战应用示例，将理论与实践相结合，对比渗透的教学方法融入整体教学过程，并强调引导学员利用信念、助教、沟通的思路和方法。教学风格诙谐幽默，在愉悦的环境中学员学习新知识更易于理解吸收。",
+      "description": [
+        "e7403164-dada-45b7-8e6b-ae9767255d4c.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 27
+    },
+    {
+      "courseName": "MySQL OCP V8.0",
+      "direction": "云计算",
+      "post": "系统工程师",
+      "mode": "直播",
+      "mainImg": "99a546e6-9303-4e1b-8f27-4cc02d14b13b.png",
+      "hours": "20",
+      "startDate": "2024-07-31",
+      "tag": "周末班，北京",
+      "intro": "MySQL OCP V8.0",
+      "price": "5933",
+      "teacherName": "刘老师",
+      "teacherIntro": "曾就职于BAT其中大数据部门工作，2010年开始从事大数据工作，是国内玩大数据的先驱。5多年来一直从事大数据开发和数据挖掘方面的工作，在Hadoop、spark、mesos领域积累了丰富的经验；2013年编写并出版《Hadoop应用开发技术详解》图书，销售10000+册——机械工业出版社；专利《海量数据基于记录级别的容错》— （公司内部）在infoQ和CSDN等技术论坛都有采访和发表文章；多次参加国内、国外知名的大数据峰会演讲者。具有丰富的理论及教学和实践经验，曾为许多企、事业单位进行培训，积累了丰富的企业实战应用示例；将理论与实际（解决问题）相结合的教学方法融入整体教学过程，并强调引导自主学习的思路和方法。教学风格深入浅出，易于理解吸收。",
+      "description": [
+        "69933b27-ca22-4e22-987d-27e487870ba3.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 28
+    },
+    {
+      "courseName": "OBCA- OceanBase 数据库认证专员",
+      "direction": "数据库",
+      "post": "系统工程师",
+      "mode": "直播",
+      "mainImg": "86239009-12a2-472e-8e59-85a6ff2c3aa4.png",
+      "hours": "30",
+      "startDate": "2024-07-26",
+      "tag": "无",
+      "intro": "OBCA- OceanBase 数据库认证专员",
+      "price": "3230",
+      "teacherName": "姚老师",
+      "teacherIntro": "姚老师具有17年的数据库管理和维护经验，被学员评价为“神级讲师，技术大牛”！曾做过的项目有：武汉医疗救治中心医疗信息化改造，北京2008奥运会残奥会IT技术保障项目，陕西安康公安局警务综合平台数据库系统升级，上海Cooper存储改造项目，西安印钞厂存储改造项目，他严谨的授课风格，保证了认证的通过率！",
+      "description": [
+        "eedb6969-6f32-4c33-8d4b-d4d8b997a86e.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 29
+    },
+    {
+      "courseName": "VCP-DCV VMware vSphere 安装、配置和管理[V8.x]",
+      "direction": "软件开发",
+      "post": "系统工程师",
+      "mode": "直播",
+      "mainImg": "17d3244e-e45c-420e-b0dd-e9af16537b6e.png",
+      "hours": "24",
+      "startDate": "2024-07-23",
+      "tag": "周末班，北京",
+      "intro": "VCP-DCV VMware vSphere 安装、配置和管理[V8.x]",
+      "price": "10700",
+      "teacherName": "赵老师",
+      "teacherIntro": "无",
+      "description": [
+        "bdd77a7e-370b-42d4-9366-9ae62e3a6f4b.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 30
+    },
+    {
+      "courseName": "Power BI数据分析师培训（微软PL-300）",
+      "direction": "办公应用",
+      "post": "系统工程师",
+      "mode": "直播",
+      "mainImg": "18cef873-2b2c-4458-8297-d74dca91e1c1.png",
+      "hours": "36",
+      "startDate": "2024-07-12",
+      "tag": "周末班，北京",
+      "intro": "Power BI数据分析师培训（微软PL-300）",
+      "price": "3200",
+      "teacherName": "赵悦",
+      "teacherIntro": "赵悦老师主要从事企业办公应用产品的研究、培训和推广工作。10年以上的企业培训经验，已经培养了上万名用户，这些用户分布于近千家公司，其中包括多家世界500强企业。为了更好的服务于这些公司，积极的研究办公软件在企业应用中的相关知识，通过专业知识为企业客户定制出满足各个工作岗位的培训解决方案。\n",
+      "description": [
+        "90e1aa3e-13f2-4423-805d-c78b2c1713dd.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 31
+    },
+    {
+      "courseName": "CISP注册信息安全专业人员(含考试",
+      "direction": "项目管理",
+      "post": "安全工程师",
+      "mode": "直播",
+      "mainImg": "61e352ae-4e0a-4128-9dd1-e5a0d434d5dd.png",
+      "hours": "44",
+      "startDate": "2024-07-18",
+      "tag": "周末班，全国",
+      "intro": "CISP注册信息安全专业人员(含考试",
+      "price": "9600",
+      "teacherName": "崔佳",
+      "teacherIntro": "幽默、生动，层次感强，结构清晰，深入浅出，语言风格沉稳和收敛；在 PMP®考前培训的辅导方面具有独到的方法，积 累了大量的授课经验，授课学员一次通过 PMP®率达到 90%以上。多年的运营商技术外包服务经历及央企和银行信息化项 目现场感悟，增加了授课的效度和信度；体验式授课方式，讲求“认知——思维——行动”的体验式教学法，“传递思想， 以事说理”，用身边的实例让学员体会并思考，感悟而收获。",
+      "description": [
+        "889d1b3e-f429-4b54-b6ae-2ada706624aa.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 32
+    },
+    {
+      "courseName": "PeopleCert ITIL® 4 Foundation认证（中文版",
+      "direction": "IT管理",
+      "post": "安全工程师",
+      "mode": "直播",
+      "mainImg": "d5c899f4-9628-4d75-93eb-986a6ca0d7fb.png",
+      "hours": "10",
+      "startDate": "2024-07-29",
+      "tag": "周末班，北京",
+      "intro": "PeopleCert ITIL® 4 Foundation认证（中文版",
+      "price": "1680",
+      "teacherName": "祝文彬",
+      "teacherIntro": "20多年IT行业从业经验，17年IT服务管理经验，12年高校工作经验。 曾为海关总署、国税总局、中国移动、中国联通、国家开发银行、日本三菱银行、中国惠普、西门子（中国）、戴姆勒（中国）、大众（中国）、宝马（中国）、博世（中国）等单位讲授ITIL、ISO 20000、PRINCE2等课程。 曾主持海信集团、链家地产、北京地税、中航技、用友集团等单位的ITSM咨询项目。1982年毕业于河海大学（211学校），获学士学位；1997年毕业于北京航空航天大学（211/985学校），获硕士学位",
+      "description": [
+        "f196b411-b961-472c-b151-53b3dbecfc57.png",
+        "fc3bd5d4-cd16-48ac-8e20-9d55c4aa73f4.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 33
+    },
+    {
+      "courseName": "CCSK云计算安全知识认证",
+      "direction": "数字安全",
+      "post": "安全工程师",
+      "mode": "直播",
+      "mainImg": "2a545435-aff9-47e4-b84b-cc45edae4ef4.png",
+      "hours": "16",
+      "startDate": "2024-07-03",
+      "tag": "周末班，全国",
+      "intro": "CCSK云计算安全知识认证",
+      "price": "3825",
+      "teacherName": "米小亮",
+      "teacherIntro": "米小亮老师自2008年以来，一直从事软件安全开发流程SDL的研究、应用和推广工作。在高校工作期间多次领带学生参加Google移动应用开发全国大学生挑战赛、中国“蓝桥杯”比赛，取得一等奖及全国优秀奖。进入企业后继续从事网络安全项目开发、安全科普和认证培训等工作，已经服务近百家企业和上千名学员。",
+      "description": [
+        "68cb29af-5a9d-46c4-8745-f900f966e18a.png",
+        "46dd1d8d-7583-42f9-b037-2e9afd1f3acb.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 34
+    },
+    {
+      "courseName": "信息安全保障人员(CISAW)-风险管理",
+      "direction": "软考",
+      "post": "安全工程师",
+      "mode": "直播",
+      "mainImg": "2c412cf7-473e-43c6-a89d-b4991ca4ad96.png",
+      "hours": "44",
+      "startDate": "2024-07-30",
+      "tag": "无",
+      "intro": "信息安全保障人员(CISAW)-风险管理",
+      "price": "6800",
+      "teacherName": "资深",
+      "teacherIntro": "无",
+      "description": [
+        "9d187c78-dee7-46b3-9804-e5dd26536c2e.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 35
+    },
+    {
+      "courseName": "红帽 OpenStack 管理二：云运维人员需掌握的运维（CL210）",
+      "direction": "运维",
+      "post": "安全工程师",
+      "mode": "直播",
+      "mainImg": "b513590e-d3de-45e0-9b8c-19fa9972f7b5.png",
+      "hours": "44",
+      "startDate": "2024-07-17",
+      "tag": "周末班，全国",
+      "intro": "红帽 OpenStack 管理二：云运维人员需掌握的运维（CL210）",
+      "price": "4080",
+      "teacherName": "苏振",
+      "teacherIntro": "从事职业教育十多年，也在软件公司做Linux方面的技术研究。所以具有丰富的应试教学及应用实践，还有丰富的理论和教学经验。曾为众多500强企业做过内训，也经常交付一些认证类的公开课，大学的实训。积累了丰富的企业实战应用示例，将理论与实践相结合，对比渗透的教学方法融入整体教学过程，并强调引导学员利用信念、助教、沟通的思路和方法。教学风格诙谐幽默，在愉悦的环境中学员学习新知识更易于理解吸收。",
+      "description": [
+        "fa428adb-6161-4bb2-842c-8a7e707253a9.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 36
+    },
+    {
+      "courseName": "微软认证 Azure 管理员",
+      "direction": "云计算",
+      "post": "安全工程师",
+      "mode": "直播",
+      "mainImg": "41f347bf-2f3e-42fa-9ae8-dca67d8583a1.png",
+      "hours": "12",
+      "startDate": "2024-07-24",
+      "tag": "周末班，北京",
+      "intro": "微软认证 Azure 管理员",
+      "price": "6970",
+      "teacherName": "刘兆生",
+      "teacherIntro": "刘兆生老师具有多年的软件项目设计，开发和技术支持经验。2004年开始，致力于软件开发技术的培训和服务，具有丰富的理论和实战经验。作为MCSD中文网络广播特约讲师，在微软MSDN网站上播出的微软Azure技术的视频课程受到全国学员的一致好评。为微软中国，人民银行，招商银行，大庆油田，海关总署，现代汽车，大众汽车等企业提供技术咨询和开发技术培训，获得企业一致好评。",
+      "description": [
+        "f581df81-0806-4995-8357-53dc9332a97a.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 37
+    },
+    {
+      "courseName": "PGCE中级管理",
+      "direction": "数据库",
+      "post": "安全工程师",
+      "mode": "直播",
+      "mainImg": "2300fce8-957a-44eb-b10b-1bb6004c28a4.png",
+      "hours": "22",
+      "startDate": "2024-07-30",
+      "tag": "周末班，全国",
+      "intro": "PGCE中级管理",
+      "price": "3230",
+      "teacherName": "孟兆文",
+      "teacherIntro": "孟兆文老师具有十余年企业IT技能培训工作以及项目实战经验。授课幽默、富有活力和亲和力，把与客户的交流和互动放在首位。扎实的理论基础、实践经验和对微软产品的深入研究，可以从客户的日常需求出发进行讲解和演示，解答客户提出的各类问题。并能在课程的一开始便迅速抓住客户心理，有很强的控场及应变能力，深受客户的好评。多年来从事微软、华为、阿里等多家厂商产品，涉及操作系统、数据库、应用服务以及办公软件等多个产品的教学及应用研究；多次支持微软官方市场活动，微软技术大会，并且为多家世界500强企业提供培训及技术支持。积累了丰富的企业实战应用示例，主要涉及教育、银行、保险、医药等诸多行业领域。",
+      "description": [
+        "1dc923bb-e64a-41cd-a2b2-726bd207d144.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 38
+    },
+    {
+      "courseName": "CISP-PTE渗透测试工程师（含考试）",
+      "direction": "软件开发",
+      "post": "安全工程师",
+      "mode": "直播",
+      "mainImg": "7b622073-7ee3-4475-93f2-26d87ff27690.png",
+      "hours": "44",
+      "startDate": "2024-07-07",
+      "tag": "周末班，全国",
+      "intro": "CISP-PTE渗透测试工程师（含考试）",
+      "price": "19800",
+      "teacherName": "徐老师",
+      "teacherIntro": "从事网络安全 项目及培训7 年以上，热爱研究网络安全技术与数据安全研究。擅长领域包含Web安全、渗透测试、安全研究、漏洞挖掘、代码审计 热爱 ctf 和 awd；在 web 方向的 php 代码审计尤为擅长，曾参与审计某司自研项目并审计到高危漏洞。有丰富的政府，内网 外网项目渗透经验。多次在 ctf 比赛中获取名次，并担任出题者和裁判以及市级护网裁判；网络安全培训讲师、CTF讲师、CISP-PTE证书讲师拥有多次金融、电力、税务、等等央企国企网络安全培训经验，拥有CISP-PTE渗透测试工程师、CCSK云计算安全专家证书，2018年发表过关于>的期刊，并被收录中国科技期刊数据库。曾任职国内某top10安全公司特聘安全培训讲师，全国大学生网络安全竞赛、科来杯、安徽省网络安全大赛出题者以及裁判，多次参加CTF竞赛且斩获奖项",
+      "description": [
+        "b99fc941-4e23-4e1e-835c-a68c9234ecd8.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 39
+    },
+    {
+      "courseName": "Office-Excel商务数据处理与综合应用 (中高级)",
+      "direction": "办公应用",
+      "post": "安全工程师",
+      "mode": "录播",
+      "mainImg": "9732093c-0358-49cf-b32f-64f4cbabd3e7.png",
+      "hours": "48",
+      "startDate": "2024-07-16",
+      "tag": "无",
+      "intro": "Office-Excel商务数据处理与综合应用 (中高级)",
+      "price": "299",
+      "teacherName": "高杉",
+      "teacherIntro": "高杉老师具有20多年来从事微软产品的研究、培训和推广工作，同时还为广大企业用户提供办公自动化的开发与咨询服务，涉及众多国家机关、企事业单位，以及100多家世界500强企业，培养了上万名用户。",
+      "description": [
+        "93936478-bf46-47d1-af78-ffbb15ff18a2.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 40
+    },
+    {
+      "courseName": "产品经理国际资格认证（NPDP）",
+      "direction": "项目管理",
+      "post": "运维工程师",
+      "mode": "直播",
+      "mainImg": "ef8b593b-74e7-4841-b005-22f66e138d4b.png",
+      "hours": "22",
+      "startDate": "2024-07-01",
+      "tag": "周末班，北京",
+      "intro": "产品经理国际资格认证（NPDP）",
+      "price": "4488",
+      "teacherName": "李老师",
+      "teacherIntro": "李老师十余年世界500强央企驻海外项目管理从业经验，曾担任驻外分公司现场负责人等职位，国际项目工程管理与国际贸易背景。工作中专注于项目管理、计划管理、目标管理、相关方管理的研究及实践。具有多年企业内部课程培训经验，以及项目管理PMP、敏捷项目管理ACP、产品管理NPDP、商业分析PBA认证公开课、软考高项考前辅导课、项目管理体验式沙盘课程开发讲授经验",
+      "description": [
+        "ea6b32a5-bbb0-4e7e-9af2-bb00dab0c4f8.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 41
+    },
+    {
+      "courseName": "华为安全 HCIA-Security V4.0",
+      "direction": "IT管理",
+      "post": "运维工程师",
+      "mode": "直播",
+      "mainImg": "3a52f41d-a777-4da5-ab8f-1172cc3a9e0d.png",
+      "hours": "24",
+      "startDate": "2024-07-09",
+      "tag": "周末班，全国",
+      "intro": "华为安全 HCIA-Security V4.0",
+      "price": "1258",
+      "teacherName": "丁臣臣",
+      "teacherIntro": "丁臣臣老师自2017年一直投身于华为ICT人才培养，从事华为相关技术教学工作5年，项目实战经验3年，培训学员3千余名，学员都在华为人才产业链不同层次中取得优质岗位，同时为各大高校进行专业授课，担任师资培训、企业内训主导讲师、企业聘请为技术顾问，曾担任国家电网公司网络规划设计师&培训讲师，为国电公司数据网规划设计改造VPN网络，以及国网各单位数据网专工进行培训赋能技术提升。",
+      "description": [
+        "f7d8ba8e-424e-42f6-8ee2-010a12a8f7c0.png",
+        "5e217d94-0838-4f1a-8eca-5dce92d6583e.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 42
+    },
+    {
+      "courseName": "XC11 ITAIP-信息系统适配验证师（初级）（含考试）",
+      "direction": "数字安全",
+      "post": "运维工程师",
+      "mode": "直播",
+      "mainImg": "e4e3c985-7cff-4b69-b461-ee953034c6bd.png",
+      "hours": "18",
+      "startDate": "2024-07-29",
+      "tag": "无",
+      "intro": "XC11 ITAIP-信息系统适配验证师（初级）（含考试）",
+      "price": "3500",
+      "teacherName": "赵老师",
+      "teacherIntro": " ",
+      "description": [
+        "984ffa3a-9fbc-4462-a99e-75e5d6a9397f.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 43
+    },
+    {
+      "courseName": "华为数通 HCIP-Datacom V1.0",
+      "direction": "软考",
+      "post": "运维工程师",
+      "mode": "直播",
+      "mainImg": "969a452a-fb6a-4614-abef-27e5a4c02532.png",
+      "hours": "12",
+      "startDate": "2024-07-17",
+      "tag": "周末班，北京",
+      "intro": "华为数通 HCIP-Datacom V1.0",
+      "price": "2125",
+      "teacherName": "胡老师",
+      "teacherIntro": "曾任威亚斯思科金牌网络技术总监，拥有十分丰富的大型高水平项目经验，拥有超过7年丰富的多厂商授课教学经验，精通Cisco、H3C、Juniper等多厂商设备调试经验。授课讲求理论与实践相结合，十分强调与学生的互动，课堂氛围轻松幽默，并精通Microsoft（微软）、Linux等多项网络服务。",
+      "description": [
+        "c77420a7-7b62-4e72-b1d6-7d184718c827.png",
+        "ed5b77c4-deaf-46a6-9d7f-82c8e26b328c.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 44
+    },
+    {
+      "courseName": "Windows Server系统管理员实战",
+      "direction": "运维",
+      "post": "运维工程师",
+      "mode": "直播",
+      "mainImg": "47502636-4fc2-493d-8fc2-5d2c8be51b2d.png",
+      "hours": "60",
+      "startDate": "2024-07-15",
+      "tag": "周末班，天津",
+      "intro": "Windows Server系统管理员实战",
+      "price": "5780",
+      "teacherName": "孟兆文",
+      "teacherIntro": "孟兆文老师具有十余年企业IT技能培训工作以及项目实战经验。授课幽默、富有活力和亲和力，把与客户的交流和互动放在首位。扎实的理论基础、实践经验和对微软产品的深入研究，可以从客户的日常需求出发进行讲解和演示，解答客户提出的各类问题。并能在课程的一开始便迅速抓住客户心理，有很强的控场及应变能力，深受客户的好评。多年来从事微软、华为、阿里等多家厂商产品，涉及操作系统、数据库、应用服务以及办公软件等多个产品的教学及应用研究；多次支持微软官方市场活动，微软技术大会，并且为多家世界500强企业提供培训及技术支持。积累了丰富的企业实战应用示例，主要涉及教育、银行、保险、医药等诸多行业领域。",
+      "description": [
+        "1f0ac6de-4000-44b3-bc98-be9a780c8f77.png",
+        "66e7b280-e9d3-4aa0-822c-7c97e912314f.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 45
+    },
+    {
+      "courseName": "APMG ISO27001 Foundation认证",
+      "direction": "云计算",
+      "post": "运维工程师",
+      "mode": "直播",
+      "mainImg": "9ce844ef-cdeb-490d-844b-0ccabb98dce2.png",
+      "hours": "16",
+      "startDate": "2024-07-30",
+      "tag": "周末班，北京",
+      "intro": "APMG ISO27001 Foundation认证",
+      "price": "3825",
+      "teacherName": "孟老师",
+      "teacherIntro": "EXIN DevOps Master证书拥有者，DASA DevO",
+      "description": [
+        "1cd39fca-3888-4e3f-8253-7c7b2c19e0ea.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 46
+    },
+    {
+      "courseName": "项目管理全流程最佳实践工作坊",
+      "direction": "项目管理",
+      "post": "网络工程师",
+      "mode": "面授",
+      "mainImg": "5d222503-0a6d-444a-9eb1-0ee19b2e55aa.png",
+      "hours": "32",
+      "startDate": "2024-07-19",
+      "tag": " ",
+      "intro": "项目管理全流程最佳实践工作坊",
+      "price": "2680",
+      "teacherName": "刘老师",
+      "teacherIntro": " ",
+      "description": [
+        "a0a179fe-a82a-4520-830d-97b875f6ef32.png",
+        "2af6de27-aa5f-478e-adcd-efc993ae2974.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 47
+    },
+    {
+      "courseName": "#C142 华为Cloud-HCIA V5.5云计算工程师认证",
+      "direction": "IT管理",
+      "post": "网络工程师",
+      "mode": "面授",
+      "mainImg": "1fda7467-cd16-47b6-a26f-54b5534590b6.png",
+      "hours": "22",
+      "startDate": "2024-07-27",
+      "tag": "周末班，北京",
+      "intro": "#C142 华为Cloud-HCIA V5.5云计算工程师认证",
+      "price": "2125",
+      "teacherName": "李老师",
+      "teacherIntro": " ",
+      "description": [
+        "23d97808-821a-444b-80d7-f3bb3659c90e.png",
+        "e1e269fb-bcec-410b-a5a4-0226e4910f48.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 48
+    },
+    {
+      "courseName": "红帽RHCE认证及实战课程V9.0",
+      "direction": "运维",
+      "post": "网络工程师",
+      "mode": "面授",
+      "mainImg": "d7df4a63-9686-4bd9-9901-611667cbf8c6.png",
+      "hours": "10",
+      "startDate": "2024-07-23",
+      "tag": "脱产+周末，全国",
+      "intro": "红帽RHCE认证及实战课程V9.0",
+      "price": "3383",
+      "teacherName": "李晓辉",
+      "teacherIntro": "李晓辉老师拥有十年以上的大型企业IT服务项目经验，资深讲师；多年来一直从事IT技术研究与培训教育行业，具备非常丰富的理论及教学经验，曾交付数千场公开课以及企业内训，有着众多的丰富的实战经验和项目经验，熟悉OpenStack架构管理、Docker容器、Kubernetes架构设计、Ceph 分布式存储、OpenShift 运维管理、DevOps自动化运维等开源技术。多次主导大型跨国架构规划和落地项目，拥有丰富的业务系统架构规划及项目实施经验。具备大量来自一线的经验以及良好的教学风格，在轻松的学习氛围中让学员获得知识。 ",
+      "description": [
+        "c8b1365c-5b73-4577-ab20-f71f852c7bb3.png",
+        "7d9824ea-9f9c-4c30-80c8-09e58cf4bb8f.png",
+        "075915e1-14e6-4a3a-b2a6-67338385bdf1.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 49
+    },
+    {
+      "courseName": "华为HCIA-PM 项目管理能力认证（含考试",
+      "direction": "项目管理",
+      "post": "网络工程师",
+      "mode": "录播",
+      "mainImg": "28cc438e-8506-42b0-8d56-e08ac84f9a63.png",
+      "hours": "30",
+      "startDate": "2024-07-11",
+      "tag": "录播",
+      "intro": "华为HCIA-PM 项目管理能力认证（含考试",
+      "price": "5200",
+      "teacherName": " ",
+      "teacherIntro": " ",
+      "description": [
+        "dbcdf9fa-3a30-48b2-a26c-cb09bf1c41bc.png",
+        "eb005a28-d6ab-46c2-9522-63702ea7f65d.png",
+        "2ea95fe8-fda7-4be5-85ee-1c33d85c550c.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 50
+    },
+    {
+      "courseName": "软考中级-网络工程师",
+      "direction": "云计算",
+      "post": "网络工程师",
+      "mode": "录播",
+      "mainImg": "c997d5f7-85d4-4597-8807-bb9e2b80e2b7.png",
+      "hours": "64.5",
+      "startDate": "2024-07-08",
+      "tag": "录播",
+      "intro": "软考中级-网络工程师",
+      "price": "2480",
+      "teacherName": " ",
+      "teacherIntro": " ",
+      "description": [
+        "1a53d8ca-0c86-45ed-86b3-28eb8a115463.png",
+        "7d3c5ad9-4d68-48a6-bc22-e071ccec7926.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 51
+    },
+    {
+      "courseName": "Office-Excel商务数据处理与综合应用 (中高级)",
+      "direction": "办公应用",
+      "post": "网络工程师",
+      "mode": "录播",
+      "mainImg": "0b4a36af-2fc8-43f1-975e-76c7d134dea5.png",
+      "hours": "20",
+      "startDate": "2024-07-02",
+      "tag": "录播",
+      "intro": "Office-Excel商务数据处理与综合应用 (中高级)",
+      "price": "299",
+      "teacherName": "高杉",
+      "teacherIntro": "高杉老师具有20多年来从事微软产品的研究、培训和推广工作，同时还为广大企业用户提供办公自动化的开发与咨询服务，涉及众多国家机关、企事业单位，以及100多家世界500强企业，培养了上万名用户",
+      "description": [
+        "b167c682-86d9-4b27-822a-1444afc7a3ee.png",
+        "9927f52b-81c9-437f-8217-5d174377c5eb.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 52
+    },
+    {
+      "courseName": "PGCA初级",
+      "direction": "项目管理",
+      "post": "系统工程师",
+      "mode": "面授",
+      "mainImg": "8e9034a5-00cc-44f3-a92a-c33e168cfccd.png",
+      "hours": "22",
+      "startDate": "2024-07-04",
+      "tag": " ",
+      "intro": "PGCA初级",
+      "price": "1530",
+      "teacherName": "孟兆文",
+      "teacherIntro": "孟兆文老师具有十余年企业IT技能培训工作以及项目实战经验。授课幽默、富有活力和亲和力，把与客户的交流和互动放在首位。扎实的理论基础、实践经验和对微软产品的深入研究，可以从客户的日常需求出发进行讲解和演示，解答客户提出的各类问题。并能在课程的一开始便迅速抓住客户心理，有很强的控场及应变能力，深受客户的好评。多年来从事微软、华为、阿里等多家厂商产品，涉及操作系统、数据库、应用服务以及办公软件等多个产品的教学及应用研究；多次支持微软官方市场活动，微软技术大会，并且为多家世界500强企业提供培训及技术支持。积累了丰富的企业实战应用示例，主要涉及教育、银行、保险、医药等诸多行业领域。",
+      "description": [
+        "777d27d1-39e9-47d9-bbfc-aae9ec73793e.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 53
+    }
+  ],
+  "chapters": [
+    {
+      "chapterName": "1.1 数据链路层",
+      "description": "1.1 数据链路层",
+      "sortNum": 1,
+      "courseId": 3,
+      "id": 1
+    },
+    {
+      "chapterName": "1.2 链路聚合",
+      "description": "1.2 链路聚合",
+      "sortNum": 2,
+      "courseId": 3,
+      "id": 2
+    },
+    {
+      "chapterName": "1.3 开放式最短路径优先协议",
+      "description": "1.3 开放式最短路径优先协议",
+      "sortNum": 3,
+      "courseId": 3,
+      "id": 3
+    },
+    {
+      "chapterName": "1.4 生成树",
+      "description": "1.4 生成树",
+      "sortNum": 4,
+      "courseId": 3,
+      "id": 4
+    },
+    {
+      "chapterName": "1.1 智能存储组件1",
+      "description": "1.1 智能存储组件1",
+      "sortNum": 1,
+      "courseId": 4,
+      "id": 5
+    },
+    {
+      "chapterName": "1.2 智能存储组件2",
+      "description": "1.2 智能存储组件2",
+      "sortNum": 1,
+      "courseId": 4,
+      "id": 6
+    },
+    {
+      "chapterName": "1.3 智能存储组件3",
+      "description": "1.3 智能存储组件3",
+      "sortNum": 1,
+      "courseId": 4,
+      "id": 7
+    },
+    {
+      "chapterName": "1.4 智能存储组件4",
+      "description": "1.4 智能存储组件4",
+      "sortNum": 1,
+      "courseId": 4,
+      "id": 8
+    },
+    {
+      "chapterName": "1.5 数据通信基础",
+      "description": "1.5 数据通信基础",
+      "sortNum": 5,
+      "courseId": 3,
+      "id": 9
+    },
+    {
+      "chapterName": "1.1 ITIL4简介—祝老师",
+      "description": "1.1 ITIL4简介—祝老师",
+      "sortNum": 1,
+      "courseId": 5,
+      "id": 10
+    },
+    {
+      "chapterName": "1.2 哪些人适合ITIL4",
+      "description": "1.2 哪些人适合ITIL4",
+      "sortNum": 1,
+      "courseId": 5,
+      "id": 11
+    },
+    {
+      "chapterName": "1.3 ITIL4初级认证",
+      "description": "1.3 ITIL4初级认证",
+      "sortNum": 1,
+      "courseId": 5,
+      "id": 12
+    },
+    {
+      "chapterName": "1.1 企业数据化发展规律",
+      "description": "1.1 企业数据化发展规律",
+      "sortNum": 1,
+      "courseId": 6,
+      "id": 13
+    },
+    {
+      "chapterName": "1.2 数字化架构的目的",
+      "description": "1.2 数字化架构的目的",
+      "sortNum": 1,
+      "courseId": 6,
+      "id": 14
+    },
+    {
+      "chapterName": "1.3 TOGAF架构介绍",
+      "description": "1.3 TOGAF架构介绍",
+      "sortNum": 1,
+      "courseId": 6,
+      "id": 15
+    },
+    {
+      "chapterName": "1.4 TOGAF用途和价值",
+      "description": "1.4 TOGAF用途和价值",
+      "sortNum": 1,
+      "courseId": 6,
+      "id": 16
+    },
+    {
+      "chapterName": "1.1 CISP认证介绍",
+      "description": "1.1 CISP认证介绍",
+      "sortNum": 1,
+      "courseId": 7,
+      "id": 17
+    },
+    {
+      "chapterName": "1.2 信息安全保障基础",
+      "description": "1.2 信息安全保障基础",
+      "sortNum": 1,
+      "courseId": 7,
+      "id": 18
+    },
+    {
+      "chapterName": "1.3 信息安全保障框架模型",
+      "description": "1.3 信息安全保障框架模型",
+      "sortNum": 1,
+      "courseId": 7,
+      "id": 19
+    },
+    {
+      "chapterName": "1.4 信息安全保障评估框架",
+      "description": "1.4 信息安全保障评估框架",
+      "sortNum": 1,
+      "courseId": 7,
+      "id": 20
+    },
+    {
+      "chapterName": "1.5 网络安全防护技术",
+      "description": "1.5 网络安全防护技术",
+      "sortNum": 1,
+      "courseId": 7,
+      "id": 21
+    },
+    {
+      "chapterName": "1.6 信息安全管理",
+      "description": "1.6 信息安全管理",
+      "sortNum": 1,
+      "courseId": 7,
+      "id": 22
+    },
+    {
+      "chapterName": "1.7 5G安全标准与框架",
+      "description": "1.7 5G安全标准与框架",
+      "sortNum": 1,
+      "courseId": 7,
+      "id": 23
+    },
+    {
+      "chapterName": "1.8 信息安全管理",
+      "description": "1.8 信息安全管理",
+      "sortNum": 1,
+      "courseId": 7,
+      "id": 24
+    },
+    {
+      "chapterName": "1.9 安全评估实施",
+      "description": "1.9 安全评估实施",
+      "sortNum": 1,
+      "courseId": 7,
+      "id": 25
+    },
+    {
+      "chapterName": "FusionComputer",
+      "description": "FusionComputer",
+      "sortNum": 1,
+      "courseId": 8,
+      "id": 26
+    },
+    {
+      "chapterName": "1.1 信息与信息化——寇翔淋",
+      "description": "1.1 信息与信息化——寇翔淋",
+      "sortNum": 1,
+      "courseId": 9,
+      "id": 27
+    },
+    {
+      "chapterName": "1.2 信息技术及其发展",
+      "description": "1.2 信息技术及其发展",
+      "sortNum": 1,
+      "courseId": 9,
+      "id": 28
+    },
+    {
+      "chapterName": "1.3 IT治理——寇翔淋",
+      "description": "1.3 IT治理——寇翔淋",
+      "sortNum": 1,
+      "courseId": 9,
+      "id": 29
+    },
+    {
+      "chapterName": "1.4 项目沟通管理——薛老师",
+      "description": "1.4 项目沟通管理——薛老师",
+      "sortNum": 1,
+      "courseId": 9,
+      "id": 30
+    },
+    {
+      "chapterName": "1.5 实施质量保证——兰老师",
+      "description": "1.5 实施质量保证——兰老师",
+      "sortNum": 1,
+      "courseId": 9,
+      "id": 31
+    },
+    {
+      "chapterName": "1.1 安全概述——丁臣臣",
+      "description": "1.1 安全概述——丁臣臣",
+      "sortNum": 1,
+      "courseId": 10,
+      "id": 32
+    },
+    {
+      "chapterName": "1.2 深入学习密码学技术",
+      "description": "1.2 深入学习密码学技术",
+      "sortNum": 1,
+      "courseId": 10,
+      "id": 33
+    },
+    {
+      "chapterName": "1.1 什么是开源——苏振",
+      "description": "1.1 什么是开源——苏振",
+      "sortNum": 1,
+      "courseId": 11,
+      "id": 34
+    },
+    {
+      "chapterName": "1.2 什么是Linux",
+      "description": "1.2 什么是Linux",
+      "sortNum": 1,
+      "courseId": 11,
+      "id": 35
+    },
+    {
+      "chapterName": "1.3 Linux操作系统组成",
+      "description": "1.3 Linux操作系统组成",
+      "sortNum": 1,
+      "courseId": 11,
+      "id": 36
+    },
+    {
+      "chapterName": "1.4发行版本和体系",
+      "description": "发行版本和体系",
+      "sortNum": 1,
+      "courseId": 11,
+      "id": 37
+    },
+    {
+      "chapterName": "1.5 Linux系统目录结构",
+      "description": "1.5 Linux系统目录结构",
+      "sortNum": 1,
+      "courseId": 11,
+      "id": 38
+    },
+    {
+      "chapterName": "1.6 管理网络设置和设备",
+      "description": "1.6 管理网络设置和设备",
+      "sortNum": 1,
+      "courseId": 11,
+      "id": 39
+    },
+    {
+      "chapterName": "1.7 RHEL9新特性",
+      "description": "1.7 RHEL9新特性",
+      "sortNum": 1,
+      "courseId": 11,
+      "id": 40
+    },
+    {
+      "chapterName": "1.8 掌握Ansible",
+      "description": "1.8 掌握Ansible",
+      "sortNum": 1,
+      "courseId": 11,
+      "id": 41
+    },
+    {
+      "chapterName": "1.1 红帽OpenStack",
+      "description": "1.1 红帽OpenStack",
+      "sortNum": 1,
+      "courseId": 12,
+      "id": 42
+    },
+    {
+      "chapterName": "1.1",
+      "description": "1.1",
+      "sortNum": 1,
+      "courseId": 13,
+      "id": 43
+    },
+    {
+      "chapterName": "1.2",
+      "description": "1.2",
+      "sortNum": 1,
+      "courseId": 13,
+      "id": 44
+    },
+    {
+      "chapterName": "2.1",
+      "description": "2.1",
+      "sortNum": 1,
+      "courseId": 13,
+      "id": 45
+    },
+    {
+      "chapterName": "2.2",
+      "description": "2.2",
+      "sortNum": 1,
+      "courseId": 13,
+      "id": 46
+    },
+    {
+      "chapterName": "1.1 阿里云综述——林老师",
+      "description": "1.1 阿里云综述——林老师",
+      "sortNum": 1,
+      "courseId": 14,
+      "id": 47
+    },
+    {
+      "chapterName": "1.2 数据中心网络——林老师",
+      "description": "1.2 数据中心网络——林老师",
+      "sortNum": 1,
+      "courseId": 14,
+      "id": 48
+    },
+    {
+      "chapterName": "1.3 云服务器ECS",
+      "description": "1.3 云服务器ECS",
+      "sortNum": 1,
+      "courseId": 14,
+      "id": 49
+    },
+    {
+      "chapterName": "1.1 国产数据库现状和未来",
+      "description": "1.1 国产数据库现状和未来",
+      "sortNum": 1,
+      "courseId": 15,
+      "id": 50
+    },
+    {
+      "chapterName": "1.2 DM8企业版安装",
+      "description": "1.2 DM8企业版安装",
+      "sortNum": 1,
+      "courseId": 15,
+      "id": 51
+    },
+    {
+      "chapterName": "1.3 创建数据库实例管理",
+      "description": "1.3 创建数据库实例管理",
+      "sortNum": 1,
+      "courseId": 15,
+      "id": 52
+    },
+    {
+      "chapterName": "1.1 python编程基础",
+      "description": "1.1 python编程基础",
+      "sortNum": 1,
+      "courseId": 17,
+      "id": 53
+    },
+    {
+      "chapterName": "1.2",
+      "description": "1.2",
+      "sortNum": 1,
+      "courseId": 17,
+      "id": 54
+    },
+    {
+      "chapterName": "1.3",
+      "description": "1.3",
+      "sortNum": 1,
+      "courseId": 17,
+      "id": 55
+    },
+    {
+      "chapterName": "1.4",
+      "description": "1.4",
+      "sortNum": 1,
+      "courseId": 17,
+      "id": 56
+    },
+    {
+      "chapterName": "1.1",
+      "description": "1.1",
+      "sortNum": 1,
+      "courseId": 18,
+      "id": 57
+    },
+    {
+      "chapterName": "1.2",
+      "description": "1.2",
+      "sortNum": 1,
+      "courseId": 18,
+      "id": 58
+    },
+    {
+      "chapterName": "1.3",
+      "description": "1.3",
+      "sortNum": 1,
+      "courseId": 18,
+      "id": 59
+    },
+    {
+      "chapterName": "1.4",
+      "description": "1.4",
+      "sortNum": 1,
+      "courseId": 18,
+      "id": 60
+    },
+    {
+      "chapterName": "2.1",
+      "description": "2.1",
+      "sortNum": 1,
+      "courseId": 18,
+      "id": 61
+    },
+    {
+      "chapterName": "2.2",
+      "description": "2.2",
+      "sortNum": 1,
+      "courseId": 18,
+      "id": 62
+    },
+    {
+      "chapterName": "2.3",
+      "description": "2.3",
+      "sortNum": 1,
+      "courseId": 18,
+      "id": 63
+    },
+    {
+      "chapterName": "1.1IPSec VPN",
+      "description": "1.1IPSec VPN",
+      "sortNum": 1,
+      "courseId": 19,
+      "id": 64
+    },
+    {
+      "chapterName": "1.2 SSL VPN",
+      "description": "1.2 SSL VPN",
+      "sortNum": 1,
+      "courseId": 19,
+      "id": 65
+    },
+    {
+      "chapterName": "1.3 漏洞防御措施",
+      "description": "1.3 漏洞防御措施",
+      "sortNum": 1,
+      "courseId": 19,
+      "id": 66
+    },
+    {
+      "chapterName": "1.4 IPS及WAF原理",
+      "description": "1.4 IPS及WAF原理",
+      "sortNum": 1,
+      "courseId": 19,
+      "id": 67
+    },
+    {
+      "chapterName": "1.1 什么是VBA",
+      "description": "1.1 什么是VBA",
+      "sortNum": 1,
+      "courseId": 20,
+      "id": 68
+    },
+    {
+      "chapterName": "1.2 VBA能做什么",
+      "description": "1.2 VBA能做什么",
+      "sortNum": 1,
+      "courseId": 20,
+      "id": 69
+    },
+    {
+      "chapterName": "1.3 调用VBE窗口",
+      "description": "1.3 调用VBE窗口",
+      "sortNum": 1,
+      "courseId": 20,
+      "id": 70
+    },
+    {
+      "chapterName": "1.4 安排",
+      "description": "1.4 安排",
+      "sortNum": 1,
+      "courseId": 20,
+      "id": 71
+    },
+    {
+      "chapterName": "1.5 编辑界面",
+      "description": "1.5 编辑界面",
+      "sortNum": 1,
+      "courseId": 20,
+      "id": 72
+    },
+    {
+      "chapterName": "1.1 课程概述——苏振",
+      "description": "1.1 课程概述——苏振",
+      "sortNum": 1,
+      "courseId": 21,
+      "id": 73
+    },
+    {
+      "chapterName": "1.2 容器技术概述——苏振",
+      "description": "1.2 容器技术概述——苏振",
+      "sortNum": 1,
+      "courseId": 21,
+      "id": 74
+    },
+    {
+      "chapterName": "1.3 容器技术发展——苏振",
+      "description": "1.3 容器技术发展——苏振",
+      "sortNum": 1,
+      "courseId": 21,
+      "id": 75
+    },
+    {
+      "chapterName": "1.4 Kubernetes",
+      "description": "1.4 Kubernetes",
+      "sortNum": 1,
+      "courseId": 21,
+      "id": 76
+    },
+    {
+      "chapterName": "1.5 Yaml语句——李晓辉",
+      "description": "1.5 Yaml语句——李晓辉",
+      "sortNum": 1,
+      "courseId": 21,
+      "id": 77
+    },
+    {
+      "chapterName": "1.1 PDMA",
+      "description": "1.1 PDMA",
+      "sortNum": 1,
+      "courseId": 22,
+      "id": 78
+    },
+    {
+      "chapterName": "1.2 NPDP 知识体系介绍",
+      "description": "1.2 NPDP 知识体系介绍",
+      "sortNum": 1,
+      "courseId": 22,
+      "id": 79
+    },
+    {
+      "chapterName": "1.3 第一章 战略",
+      "description": "1.3 第一章 战略",
+      "sortNum": 1,
+      "courseId": 22,
+      "id": 80
+    },
+    {
+      "chapterName": "1.1 ITIL4简介",
+      "description": "1.1 ITIL4简介",
+      "sortNum": 1,
+      "courseId": 23,
+      "id": 81
+    },
+    {
+      "chapterName": "1.2 哪些人适合ITIL4",
+      "description": "1.2 哪些人适合ITIL4",
+      "sortNum": 1,
+      "courseId": 23,
+      "id": 82
+    },
+    {
+      "chapterName": "1.3 ITIL4初级认证",
+      "description": "1.3 ITIL4初级认证",
+      "sortNum": 1,
+      "courseId": 23,
+      "id": 83
+    },
+    {
+      "chapterName": "1.1 数据管理的定义—",
+      "description": "1.1 数据管理的定义—",
+      "sortNum": 1,
+      "courseId": 24,
+      "id": 84
+    },
+    {
+      "chapterName": "1.2 数据伦理处理——王老师",
+      "description": "1.2 数据伦理处理——王老师",
+      "sortNum": 1,
+      "courseId": 24,
+      "id": 85
+    },
+    {
+      "chapterName": "1.3 数据治理——王老师",
+      "description": "1.3 数据治理——王老师",
+      "sortNum": 1,
+      "courseId": 24,
+      "id": 86
+    },
+    {
+      "chapterName": "1.1 密码学与加密基础",
+      "description": "1.1 密码学与加密基础",
+      "sortNum": 1,
+      "courseId": 25,
+      "id": 87
+    },
+    {
+      "chapterName": "1.2 数据安全风险挑战与响应",
+      "description": "1.2 数据安全风险挑战与响应",
+      "sortNum": 1,
+      "courseId": 25,
+      "id": 88
+    },
+    {
+      "chapterName": "1.1 信息与信息化",
+      "description": "1.1 信息与信息化",
+      "sortNum": 1,
+      "courseId": 26,
+      "id": 89
+    },
+    {
+      "chapterName": "1.2 信息技术及其发展",
+      "description": "1.2 信息技术及其发展",
+      "sortNum": 1,
+      "courseId": 26,
+      "id": 90
+    },
+    {
+      "chapterName": "1.3 IT治理——寇翔淋",
+      "description": "1.3 IT治理——寇翔淋",
+      "sortNum": 1,
+      "courseId": 26,
+      "id": 91
+    },
+    {
+      "chapterName": "1.4 项目沟通管理",
+      "description": "1.4 项目沟通管理",
+      "sortNum": 1,
+      "courseId": 26,
+      "id": 92
+    },
+    {
+      "chapterName": "1.5 实施质量保证",
+      "description": "1.5 实施质量保证",
+      "sortNum": 1,
+      "courseId": 26,
+      "id": 93
+    },
+    {
+      "chapterName": "1.1 麒麟认证体系介绍",
+      "description": "1.1 麒麟认证体系介绍",
+      "sortNum": 1,
+      "courseId": 27,
+      "id": 94
+    },
+    {
+      "chapterName": "1.2 终端与shell",
+      "description": "1.2 终端与shell——郭玉晨",
+      "sortNum": 1,
+      "courseId": 27,
+      "id": 95
+    },
+    {
+      "chapterName": "1.3 用户与组管理1",
+      "description": "1.3 用户与组管理1——郭玉晨",
+      "sortNum": 1,
+      "courseId": 27,
+      "id": 96
+    },
+    {
+      "chapterName": "1.4 用户与组管理2",
+      "description": "1.4 用户与组管理2——郭玉晨",
+      "sortNum": 1,
+      "courseId": 27,
+      "id": 97
+    },
+    {
+      "chapterName": "1.1 MySQL数据库",
+      "description": "1.2 MYSQL OCP数据库监视",
+      "sortNum": 1,
+      "courseId": 28,
+      "id": 98
+    },
+    {
+      "chapterName": "1.2 OCP数据库监视",
+      "description": "1.2 MYSQL OCP数据库监视",
+      "sortNum": 1,
+      "courseId": 28,
+      "id": 99
+    },
+    {
+      "chapterName": "1.1",
+      "description": "1.1",
+      "sortNum": 1,
+      "courseId": 29,
+      "id": 100
+    },
+    {
+      "chapterName": "1.2",
+      "description": "1.2",
+      "sortNum": 1,
+      "courseId": 29,
+      "id": 101
+    },
+    {
+      "chapterName": "1.3",
+      "description": "1.3",
+      "sortNum": 1,
+      "courseId": 29,
+      "id": 102
+    },
+    {
+      "chapterName": "2.1",
+      "description": "2.1",
+      "sortNum": 1,
+      "courseId": 29,
+      "id": 103
+    },
+    {
+      "chapterName": "2.2",
+      "description": "2.2",
+      "sortNum": 1,
+      "courseId": 29,
+      "id": 104
+    },
+    {
+      "chapterName": "2.3",
+      "description": "2.3",
+      "sortNum": 1,
+      "courseId": 29,
+      "id": 105
+    },
+    {
+      "chapterName": "1.1 VMware",
+      "description": "1.1 VMware vSphere 优化及排错最佳实践",
+      "sortNum": 1,
+      "courseId": 30,
+      "id": 106
+    },
+    {
+      "chapterName": "1.2 认证体系介绍",
+      "description": "1.2 VMware认证体系介绍",
+      "sortNum": 1,
+      "courseId": 30,
+      "id": 107
+    },
+    {
+      "chapterName": "1.3 VCP-DCV 课程",
+      "description": "1.3 VCP-DCV 课程介绍",
+      "sortNum": 1,
+      "courseId": 30,
+      "id": 108
+    },
+    {
+      "chapterName": "1.4 安装和配置ESXi",
+      "description": "1.4 安装和配置ESXi",
+      "sortNum": 1,
+      "courseId": 30,
+      "id": 109
+    },
+    {
+      "chapterName": "1.5 配置群集",
+      "description": "1.5 配置vSphere HA群集",
+      "sortNum": 1,
+      "courseId": 30,
+      "id": 110
+    },
+    {
+      "chapterName": "1.1 商业智能技术发展概况",
+      "description": "1.1 商业智能技术发展概况",
+      "sortNum": 1,
+      "courseId": 31,
+      "id": 111
+    },
+    {
+      "chapterName": "1.2 Power BI流程",
+      "description": "1.2 Power BI组建与报表设计流程",
+      "sortNum": 1,
+      "courseId": 31,
+      "id": 112
+    },
+    {
+      "chapterName": "PowerBIDesktop",
+      "description": "1.3 安装Power BI Desktop",
+      "sortNum": 1,
+      "courseId": 31,
+      "id": 113
+    },
+    {
+      "chapterName": "1.4 申请服务帐户",
+      "description": "1.4 申请Power BI Online服务帐户",
+      "sortNum": 1,
+      "courseId": 31,
+      "id": 114
+    },
+    {
+      "chapterName": "1.1 CISP认证介绍",
+      "description": "1.1 CISP认证介绍—米小亮",
+      "sortNum": 1,
+      "courseId": 32,
+      "id": 115
+    },
+    {
+      "chapterName": "1.2 信息安全保障基础",
+      "description": "1.2 信息安全保障基础—米小亮",
+      "sortNum": 1,
+      "courseId": 32,
+      "id": 116
+    },
+    {
+      "chapterName": "1.3 信息安全保障框架模型",
+      "description": "1.3 信息安全保障框架模型—米小亮",
+      "sortNum": 1,
+      "courseId": 32,
+      "id": 117
+    },
+    {
+      "chapterName": "1.4 信息安全保障评估框架",
+      "description": "1.4 信息安全保障评估框架—米小亮",
+      "sortNum": 1,
+      "courseId": 32,
+      "id": 118
+    },
+    {
+      "chapterName": "1.5 网络安全防护技术",
+      "description": "1.5 网络安全防护技术——袁老师",
+      "sortNum": 1,
+      "courseId": 32,
+      "id": 119
+    },
+    {
+      "chapterName": "1.6 信息安全管理——崔佳",
+      "description": "1.6 信息安全管理——崔佳",
+      "sortNum": 1,
+      "courseId": 32,
+      "id": 120
+    },
+    {
+      "chapterName": "1.7 5G安全标准与框架",
+      "description": "1.7 5G安全标准与框架——张老师",
+      "sortNum": 1,
+      "courseId": 32,
+      "id": 121
+    },
+    {
+      "chapterName": "1.8 信息安全管理——寇老师",
+      "description": "1.8 信息安全管理——寇老师",
+      "sortNum": 1,
+      "courseId": 32,
+      "id": 122
+    },
+    {
+      "chapterName": "1.9 安全评估实施——林老师",
+      "description": "1.9 安全评估实施——林老师",
+      "sortNum": 1,
+      "courseId": 32,
+      "id": 123
+    },
+    {
+      "chapterName": "1.1 ITIL4简介",
+      "description": "1.1 ITIL4简介——祝老师",
+      "sortNum": 1,
+      "courseId": 33,
+      "id": 124
+    },
+    {
+      "chapterName": "1.2 学习ITIL4",
+      "description": "1.2 哪些人适合学习ITIL4？——祝老师",
+      "sortNum": 1,
+      "courseId": 33,
+      "id": 125
+    },
+    {
+      "chapterName": "1.3 ITIL4初级认证",
+      "description": "1.3 ITIL4初级认证",
+      "sortNum": 1,
+      "courseId": 33,
+      "id": 126
+    },
+    {
+      "chapterName": "1.1 云计算介绍--米老师",
+      "description": "1.1 云计算介绍--米老师",
+      "sortNum": 1,
+      "courseId": 34,
+      "id": 127
+    },
+    {
+      "chapterName": "1.2",
+      "description": "1.2",
+      "sortNum": 1,
+      "courseId": 34,
+      "id": 128
+    },
+    {
+      "chapterName": "1.3",
+      "description": "1.3",
+      "sortNum": 1,
+      "courseId": 34,
+      "id": 129
+    },
+    {
+      "chapterName": "1.4",
+      "description": "1.4",
+      "sortNum": 1,
+      "courseId": 34,
+      "id": 130
+    },
+    {
+      "chapterName": "1.5",
+      "description": "1.5",
+      "sortNum": 1,
+      "courseId": 34,
+      "id": 131
+    },
+    {
+      "chapterName": "2.1",
+      "description": "2.1",
+      "sortNum": 1,
+      "courseId": 34,
+      "id": 132
+    },
+    {
+      "chapterName": "2.2",
+      "description": "2.2",
+      "sortNum": 1,
+      "courseId": 34,
+      "id": 133
+    },
+    {
+      "chapterName": "1.1",
+      "description": "1.1",
+      "sortNum": 1,
+      "courseId": 35,
+      "id": 134
+    },
+    {
+      "chapterName": "1.2",
+      "description": "1.2",
+      "sortNum": 1,
+      "courseId": 35,
+      "id": 135
+    },
+    {
+      "chapterName": "1.3",
+      "description": "1.3",
+      "sortNum": 1,
+      "courseId": 35,
+      "id": 136
+    },
+    {
+      "chapterName": "1.4",
+      "description": "1.4",
+      "sortNum": 1,
+      "courseId": 35,
+      "id": 137
+    },
+    {
+      "chapterName": "2.1",
+      "description": "2.1",
+      "sortNum": 1,
+      "courseId": 35,
+      "id": 138
+    },
+    {
+      "chapterName": "2.2",
+      "description": "2.2",
+      "sortNum": 1,
+      "courseId": 35,
+      "id": 139
+    },
+    {
+      "chapterName": "2.3",
+      "description": "2.3",
+      "sortNum": 1,
+      "courseId": 35,
+      "id": 140
+    },
+    {
+      "chapterName": "1.1 红帽OpenStack",
+      "description": "1.1 红帽OpenStack平台",
+      "sortNum": 1,
+      "courseId": 36,
+      "id": 141
+    },
+    {
+      "chapterName": "1.2 红帽",
+      "description": "1.2 红帽OpenStack平台",
+      "sortNum": 1,
+      "courseId": 36,
+      "id": 142
+    },
+    {
+      "chapterName": "1.3",
+      "description": "1.3",
+      "sortNum": 1,
+      "courseId": 36,
+      "id": 143
+    },
+    {
+      "chapterName": "1.1 操作系统",
+      "description": "1.1 操作系统",
+      "sortNum": 1,
+      "courseId": 37,
+      "id": 144
+    },
+    {
+      "chapterName": "1.2 PowerShell",
+      "description": "1.2 PowerShell",
+      "sortNum": 1,
+      "courseId": 37,
+      "id": 145
+    },
+    {
+      "chapterName": "1.3公有云",
+      "description": "1.3公有云",
+      "sortNum": 1,
+      "courseId": 37,
+      "id": 146
+    },
+    {
+      "chapterName": "1.4常用命令",
+      "description": "1.4常用命令",
+      "sortNum": 1,
+      "courseId": 37,
+      "id": 147
+    },
+    {
+      "chapterName": "1.1 PostgreSQL",
+      "description": "1.1 PostgreSQL 与程序员共舞——刘老师",
+      "sortNum": 1,
+      "courseId": 38,
+      "id": 148
+    },
+    {
+      "chapterName": "1.2 管理链接——刘老师",
+      "description": "1.2 POSTGRESQL管理链接——刘老师",
+      "sortNum": 1,
+      "courseId": 38,
+      "id": 149
+    },
+    {
+      "chapterName": "1.3  日常运维——刘老师",
+      "description": "1.3 Postgresql 日常运维——刘老师",
+      "sortNum": 1,
+      "courseId": 38,
+      "id": 150
+    },
+    {
+      "chapterName": "1.1 sql注入——徐老师",
+      "description": "1.1 sql注入——徐老师",
+      "sortNum": 1,
+      "courseId": 39,
+      "id": 151
+    },
+    {
+      "chapterName": "1.2 课程概述——徐老师",
+      "description": "1.2 课程概述——徐老师",
+      "sortNum": 1,
+      "courseId": 39,
+      "id": 152
+    },
+    {
+      "chapterName": "1.3 cookie注入",
+      "description": "1.3 cookie注入——王老师",
+      "sortNum": 1,
+      "courseId": 39,
+      "id": 153
+    },
+    {
+      "chapterName": "1.1 课程概述",
+      "description": "1.1 课程概述",
+      "sortNum": 1,
+      "courseId": 40,
+      "id": 154
+    },
+    {
+      "chapterName": "1.2 数据规范",
+      "description": "1.2 数据规范",
+      "sortNum": 1,
+      "courseId": 40,
+      "id": 155
+    },
+    {
+      "chapterName": "1.3 Excel容量和精度",
+      "description": "1.3 Excel容量和精度",
+      "sortNum": 1,
+      "courseId": 40,
+      "id": 156
+    },
+    {
+      "chapterName": "1.4 数据表和区域",
+      "description": "1.4 数据表和区域",
+      "sortNum": 1,
+      "courseId": 40,
+      "id": 157
+    },
+    {
+      "chapterName": "1.5 日期时间揭秘",
+      "description": "1.5 日期时间揭秘",
+      "sortNum": 1,
+      "courseId": 40,
+      "id": 158
+    },
+    {
+      "chapterName": "1.1 PDMA",
+      "description": "1.1 PDMA",
+      "sortNum": 1,
+      "courseId": 41,
+      "id": 159
+    },
+    {
+      "chapterName": "1.2  知识体系介绍—王老师",
+      "description": "1.2 NPDP 知识体系介绍——王老师",
+      "sortNum": 1,
+      "courseId": 41,
+      "id": 160
+    },
+    {
+      "chapterName": "1.3 第一章 战略——王老师",
+      "description": "1.3 第一章 战略——王老师",
+      "sortNum": 1,
+      "courseId": 41,
+      "id": 161
+    },
+    {
+      "chapterName": "1.1 安全概述——丁臣臣",
+      "description": "1.1 安全概述——丁臣臣",
+      "sortNum": 1,
+      "courseId": 42,
+      "id": 162
+    },
+    {
+      "chapterName": "1.2 深入学习密码学技术",
+      "description": "1.2 深入学习密码学技术——张老师",
+      "sortNum": 1,
+      "courseId": 42,
+      "id": 163
+    },
+    {
+      "chapterName": "1.1",
+      "description": "1.1",
+      "sortNum": 1,
+      "courseId": 43,
+      "id": 164
+    },
+    {
+      "chapterName": "1.2",
+      "description": "1.2",
+      "sortNum": 1,
+      "courseId": 43,
+      "id": 165
+    },
+    {
+      "chapterName": "1.3",
+      "description": "1.3",
+      "sortNum": 1,
+      "courseId": 43,
+      "id": 166
+    },
+    {
+      "chapterName": "1.4",
+      "description": "1.4",
+      "sortNum": 1,
+      "courseId": 43,
+      "id": 167
+    },
+    {
+      "chapterName": "2.1",
+      "description": "2.1",
+      "sortNum": 1,
+      "courseId": 43,
+      "id": 168
+    },
+    {
+      "chapterName": "2.2",
+      "description": "2.2",
+      "sortNum": 1,
+      "courseId": 43,
+      "id": 169
+    },
+    {
+      "chapterName": "3.1",
+      "description": "3.1",
+      "sortNum": 1,
+      "courseId": 43,
+      "id": 170
+    },
+    {
+      "chapterName": "3.2",
+      "description": "3.2",
+      "sortNum": 1,
+      "courseId": 43,
+      "id": 171
+    },
+    {
+      "chapterName": "1.1 OSPF的多区域应用",
+      "description": "1.1 OSPF的多区域应用——胡老师",
+      "sortNum": 1,
+      "courseId": 44,
+      "id": 172
+    },
+    {
+      "chapterName": "1.2 交换机高级特性",
+      "description": "1.2 交换机高级特性——胡老师",
+      "sortNum": 1,
+      "courseId": 44,
+      "id": 173
+    },
+    {
+      "chapterName": "1.3 VxLAN技术基础",
+      "description": "1.3 VxLAN技术基础——胡老师",
+      "sortNum": 1,
+      "courseId": 44,
+      "id": 174
+    },
+    {
+      "chapterName": "1.4 LSA——刘天明",
+      "description": "1.4 LSA——刘天明",
+      "sortNum": 1,
+      "courseId": 44,
+      "id": 175
+    },
+    {
+      "chapterName": "1.1",
+      "description": "1.1",
+      "sortNum": 1,
+      "courseId": 45,
+      "id": 176
+    },
+    {
+      "chapterName": "1.2",
+      "description": "1.2",
+      "sortNum": 1,
+      "courseId": 45,
+      "id": 177
+    },
+    {
+      "chapterName": "1.3",
+      "description": "1.3",
+      "sortNum": 1,
+      "courseId": 45,
+      "id": 178
+    },
+    {
+      "chapterName": "2.1",
+      "description": "2.1",
+      "sortNum": 1,
+      "courseId": 45,
+      "id": 179
+    },
+    {
+      "chapterName": "3.1",
+      "description": "3.1",
+      "sortNum": 1,
+      "courseId": 45,
+      "id": 180
+    },
+    {
+      "chapterName": "3.2",
+      "description": "3.2",
+      "sortNum": 1,
+      "courseId": 45,
+      "id": 181
+    },
+    {
+      "chapterName": "3.3",
+      "description": "3.3",
+      "sortNum": 1,
+      "courseId": 45,
+      "id": 182
+    },
+    {
+      "chapterName": "1.1 ISO27001",
+      "description": "1.1 ISO27001",
+      "sortNum": 1,
+      "courseId": 46,
+      "id": 183
+    },
+    {
+      "chapterName": "1.2 PDCA结构",
+      "description": "1.2 PDCA结构",
+      "sortNum": 1,
+      "courseId": 46,
+      "id": 184
+    },
+    {
+      "chapterName": "1.3 风险评估",
+      "description": "1.3 风险评估",
+      "sortNum": 1,
+      "courseId": 46,
+      "id": 185
+    },
+    {
+      "chapterName": "1.4 信息安全管理体系",
+      "description": "1.4 信息安全管理体系",
+      "sortNum": 1,
+      "courseId": 46,
+      "id": 186
+    },
+    {
+      "chapterName": "1.1 项目和项目管理",
+      "description": "1.1 项目和项目管理",
+      "sortNum": 1,
+      "courseId": 47,
+      "id": 187
+    },
+    {
+      "chapterName": "1.2 组织环境分析",
+      "description": "1.2 组织环境分析",
+      "sortNum": 1,
+      "courseId": 47,
+      "id": 188
+    },
+    {
+      "chapterName": "1.3成功标准分析",
+      "description": "1.3成功标准分析",
+      "sortNum": 1,
+      "courseId": 47,
+      "id": 189
+    },
+    {
+      "chapterName": "1.4管理对象分析",
+      "description": "1.4管理对象分析",
+      "sortNum": 1,
+      "courseId": 47,
+      "id": 190
+    },
+    {
+      "chapterName": "1.5项目管理过程分析",
+      "description": "1.5项目管理过程分析",
+      "sortNum": 1,
+      "courseId": 47,
+      "id": 191
+    },
+    {
+      "chapterName": "1.1 云计算的概念及发展",
+      "description": "1.1 云计算的概念及发展",
+      "sortNum": 1,
+      "courseId": 48,
+      "id": 192
+    },
+    {
+      "chapterName": "1.2 服务器的硬件组成",
+      "description": "1.2 服务器的硬件组成",
+      "sortNum": 1,
+      "courseId": 48,
+      "id": 193
+    },
+    {
+      "chapterName": "2.1 交换机、路由器",
+      "description": "2.1 交换机、路由器",
+      "sortNum": 1,
+      "courseId": 48,
+      "id": 194
+    },
+    {
+      "chapterName": "2.2 虚拟化、KVM",
+      "description": "2.2 虚拟化、KVM",
+      "sortNum": 1,
+      "courseId": 48,
+      "id": 195
+    },
+    {
+      "chapterName": "2.3 华为虚拟化解决方案",
+      "description": "2.3 华为虚拟化解决方案",
+      "sortNum": 1,
+      "courseId": 48,
+      "id": 196
+    },
+    {
+      "chapterName": "1.1 什么是开源——苏振",
+      "description": "1.1 什么是开源——苏振",
+      "sortNum": 1,
+      "courseId": 49,
+      "id": 197
+    },
+    {
+      "chapterName": "1.2 什么是Linux",
+      "description": "1.2 什么是Linux——苏振",
+      "sortNum": 1,
+      "courseId": 49,
+      "id": 198
+    },
+    {
+      "chapterName": "1.3 操作系统的组成",
+      "description": "1.3 Linux 操作系统的组成——苏振",
+      "sortNum": 1,
+      "courseId": 49,
+      "id": 199
+    },
+    {
+      "chapterName": "1.4 常见  发行版本和体系",
+      "description": "1.4 常见 Linux 发行版本和体系——苏振",
+      "sortNum": 1,
+      "courseId": 49,
+      "id": 200
+    },
+    {
+      "chapterName": "1.5 系统目录结构",
+      "description": "1.5 Linux系统目录结构——苏振",
+      "sortNum": 1,
+      "courseId": 49,
+      "id": 201
+    },
+    {
+      "chapterName": "1.6 管理网络设置和设备",
+      "description": "1.6 管理网络设置和设备——苏振",
+      "sortNum": 1,
+      "courseId": 49,
+      "id": 202
+    },
+    {
+      "chapterName": "1.7 RHEL9新特性",
+      "description": "1.7 RHEL9新特性——郭玉晨",
+      "sortNum": 1,
+      "courseId": 49,
+      "id": 203
+    },
+    {
+      "chapterName": "1.8 掌握Ansible",
+      "description": "1.8 掌握Ansible部署及其架构——李晓辉",
+      "sortNum": 1,
+      "courseId": 49,
+      "id": 204
+    },
+    {
+      "chapterName": "1.1 管理假设与风险 （吴华",
+      "description": "1.1 管理假设与风险 （吴华",
+      "sortNum": 1,
+      "courseId": 50,
+      "id": 205
+    },
+    {
+      "chapterName": "1.2 课程试听-使命必达 ",
+      "description": "1.2 课程试听-使命必达 （孙虎）",
+      "sortNum": 1,
+      "courseId": 50,
+      "id": 206
+    },
+    {
+      "chapterName": "1.1 考试介绍",
+      "description": "1.1 考试介绍",
+      "sortNum": 1,
+      "courseId": 51,
+      "id": 207
+    },
+    {
+      "chapterName": "1.2 考点分析与备考策略",
+      "description": "1.2 考点分析与备考策略",
+      "sortNum": 1,
+      "courseId": 51,
+      "id": 208
+    },
+    {
+      "chapterName": "1.3 案例分析题如何提升",
+      "description": "1.3 案例分析题如何提升",
+      "sortNum": 1,
+      "courseId": 51,
+      "id": 209
+    },
+    {
+      "chapterName": "1.4 备考常见问题FAQ",
+      "description": "1.4 备考常见问题FAQ",
+      "sortNum": 1,
+      "courseId": 51,
+      "id": 210
+    },
+    {
+      "chapterName": "1.5 计算机网络与参考模型",
+      "description": "1.5 计算机网络分类与参考模型",
+      "sortNum": 1,
+      "courseId": 51,
+      "id": 211
+    },
+    {
+      "chapterName": "1.6 数据转发流程分析",
+      "description": "1.6 数据转发流程分析",
+      "sortNum": 1,
+      "courseId": 51,
+      "id": 212
+    },
+    {
+      "chapterName": "1.7 软考网络工程师案例分析",
+      "description": "1.7 2022年11月软考网络工程师案例分析",
+      "sortNum": 1,
+      "courseId": 51,
+      "id": 213
+    },
+    {
+      "chapterName": "1.1 课程概述",
+      "description": "1.1 课程概述",
+      "sortNum": 1,
+      "courseId": 52,
+      "id": 214
+    },
+    {
+      "chapterName": "1.2 数据规范",
+      "description": "1.2 数据规范",
+      "sortNum": 1,
+      "courseId": 52,
+      "id": 215
+    },
+    {
+      "chapterName": "1.3 Excel容量和精度",
+      "description": "1.3 Excel容量和精度",
+      "sortNum": 1,
+      "courseId": 52,
+      "id": 216
+    },
+    {
+      "chapterName": "1.4 数据表和区域",
+      "description": "1.4 数据表和区域",
+      "sortNum": 1,
+      "courseId": 52,
+      "id": 217
+    },
+    {
+      "chapterName": "1.5 日期时间揭秘",
+      "description": "1.5 日期时间揭秘",
+      "sortNum": 1,
+      "courseId": 52,
+      "id": 218
+    },
+    {
+      "chapterName": "1.1 PostgreSQL",
+      "description": "1.1 PostgreSQL",
+      "sortNum": 1,
+      "courseId": 53,
+      "id": 219
+    },
+    {
+      "chapterName": "1.2 PGCA课程介绍",
+      "description": "1.2 PGCA课程介绍——刘老师",
+      "sortNum": 1,
+      "courseId": 53,
+      "id": 220
+    },
+    {
+      "chapterName": "1.3 PG数据库安装",
+      "description": "1.3 PG数据库安装——刘老师",
+      "sortNum": 1,
+      "courseId": 53,
+      "id": 221
+    },
+    {
+      "chapterName": "1.1 信创建设背景",
+      "description": "1.1 信创建设背景",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 222
+    },
+    {
+      "chapterName": "1.2 信创推进标准策略",
+      "description": "1.2 信创推进标准策略",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 223
+    },
+    {
+      "chapterName": "2.1 信创技术路线",
+      "description": "2.1 信创技术路线",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 224
+    },
+    {
+      "chapterName": "2.2 基础软硬件产业情况",
+      "description": "2.2 基础软硬件产业情况",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 225
+    },
+    {
+      "chapterName": "3.1 适配测试",
+      "description": "3.1 适配测试",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 226
+    },
+    {
+      "chapterName": "3.2 桌面迁移适配",
+      "description": "3.2 桌面迁移适配",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 227
+    }
+  ]
+}
