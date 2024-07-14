@@ -4,7 +4,7 @@
       "1": "",
       "username": "admin",
       "nickName": "管理员",
-      "password": "123456",
+      "password": "13579",
       "mobile": "18526368895",
       "gender": "3",
       "id": 1
@@ -80,7 +80,7 @@
       "description": [
         "55d41cd9-643c-4cfe-807b-a3f16039d17f.jpg"
       ],
-      "sortNum": 2,
+      "sortNum": 1,
       "status": "1",
       "id": 2
     },
@@ -2689,48 +2689,6 @@
       "sortNum": 1,
       "courseId": 53,
       "id": 221
-    },
-    {
-      "chapterName": "1.1 信创建设背景",
-      "description": "1.1 信创建设背景",
-      "sortNum": 1,
-      "courseId": 54,
-      "id": 222
-    },
-    {
-      "chapterName": "1.2 信创推进标准策略",
-      "description": "1.2 信创推进标准策略",
-      "sortNum": 1,
-      "courseId": 54,
-      "id": 223
-    },
-    {
-      "chapterName": "2.1 信创技术路线",
-      "description": "2.1 信创技术路线",
-      "sortNum": 1,
-      "courseId": 54,
-      "id": 224
-    },
-    {
-      "chapterName": "2.2 基础软硬件产业情况",
-      "description": "2.2 基础软硬件产业情况",
-      "sortNum": 1,
-      "courseId": 54,
-      "id": 225
-    },
-    {
-      "chapterName": "3.1 适配测试",
-      "description": "3.1 适配测试",
-      "sortNum": 1,
-      "courseId": 54,
-      "id": 226
-    },
-    {
-      "chapterName": "3.2 桌面迁移适配",
-      "description": "3.2 桌面迁移适配",
-      "sortNum": 1,
-      "courseId": 54,
-      "id": 227
     }
   ]
 }

@@ -38,6 +38,7 @@ export default {
                 mobile: undefined,
                 gender: undefined
             },
+
         };
     },
     methods: {
@@ -45,7 +46,17 @@ export default {
             let loginUser = JSON.parse(sessionStorage.getItem('loginUser'));
             this.$axios.get(`/users?username=${loginUser.username}`).then(response => {
                 this.user = response.data[0];
+                if (this.user.gender == '1'){
+                    this.user.gender = '男性';
+                } 
+                if(this.user.gender == '2'){
+                    this.user.gender = '女性';
+                }
+                if(this.user.gender == '3'){
+                    this.user.gender = '未知';
+                }
             });
+
         }
     },
     mounted() {

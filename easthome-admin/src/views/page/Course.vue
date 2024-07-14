@@ -92,7 +92,7 @@ export default {
                         _limit: this.pageData.size,
                         // 排序相关参数
                         _sort: 'sortNum',
-                        courseName: this.searchForm.username || undefined,
+                        courseName: this.searchForm.courseName || undefined,
                         status: this.searchForm.status || undefined
                     }
                 })
