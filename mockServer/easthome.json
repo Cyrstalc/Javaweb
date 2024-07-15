@@ -4,7 +4,7 @@
       "1": "",
       "username": "admin",
       "nickName": "管理员",
-      "password": "13579",
+      "password": "123456",
       "mobile": "18526368895",
       "gender": "3",
       "id": 1
@@ -51,7 +51,7 @@
       "mainImg": "e90f3236-72df-4be6-9a02-0bd3c08bb236.png",
       "hours": "14",
       "startDate": "2024-07-25",
-      "tag": "录播",
+      "tag": "周末",
       "intro": "XC12 ITAIP-信息系统适配验证师（中级）（含考试）",
       "price": "4500",
       "teacherName": " 王林",
@@ -78,9 +78,9 @@
       "teacherName": "张三",
       "teacherIntro": "这是张三讲师简介",
       "description": [
-        "55d41cd9-643c-4cfe-807b-a3f16039d17f.jpg"
+        "c3e31507-af07-46f1-8566-a90ac50974af.png"
       ],
-      "sortNum": 3,
+      "sortNum": 2,
       "status": "1",
       "id": 2
     },
@@ -92,7 +92,7 @@
       "mainImg": "22834d51-e524-40a5-8a7a-a62112003e60.png",
       "hours": "12",
       "startDate": "2024-07-10",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "\"东方瑞通IT国际认证考试中心，年交付考量超3万门次，同时拥有VUE、Prometric（普尔文）、KCP、PeopleCert、PSI、APMG、CASTLE、Certiport七家考试中心授权，在北京、上海、广州、深圳、天津、武汉、济南、成都、西安九大城市设有考场，周一至周五全天开放，提供超过10000门次的各类国际认证考试，严谨及规范的考试管理被公认为业界的“教科书”。\"",
       "price": "2125",
       "teacherName": "蔡轶",
@@ -112,7 +112,7 @@
       "mainImg": "666f6e2f-7b0c-4068-9eb9-d1d6a293dc6c.png",
       "hours": "30",
       "startDate": "2024-07-17",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "可以让您掌握存储技术趋势，存储基础技术，华为智能存储产品及特性、存储系统运维管理等知识和技能，具备对存储系统进行基础部署、运维和管理的能力。",
       "price": "1258",
       "teacherName": "马老师",
@@ -120,7 +120,7 @@
       "description": [
         "76cca5d1-e1f8-42b3-a6b8-f333f125a1b4.png"
       ],
-      "sortNum": 2,
+      "sortNum": 1,
       "status": "1",
       "id": 4
     },
@@ -132,7 +132,7 @@
       "mainImg": "e8c51980-548e-43c8-8cb2-1eceb0688167.png",
       "hours": "12",
       "startDate": "2024-07-15",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "ITL即IT基础架构库，为了应对行业不断增长的对IT服务的要求，提供IT管理的实践，由英国商务部开发。",
       "price": "1980",
       "teacherName": "祝文彬",
@@ -141,7 +141,7 @@
         "02025b64-4933-4e22-8190-47ffbc821a26.png",
         "8695b76d-d442-44a0-9557-ace745384208.png"
       ],
-      "sortNum": 2,
+      "sortNum": 1,
       "status": "1",
       "id": 5
     },
@@ -153,7 +153,7 @@
       "mainImg": "9c12d937-7cc9-4904-b843-2578db38d7f0.png",
       "hours": "20",
       "startDate": "2024-07-01",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "师生互动，案例研讨和样本计划相结合，通过每个模板的课堂实践、实验和演练对企业架构有切身的体验。",
       "price": "7980",
       "teacherName": "张老师",
@@ -162,7 +162,7 @@
         "201fc84b-334e-40c0-9bca-4dfda6cd1a5e.png",
         "455b7f84-e808-4a27-90fa-df293a651343.png"
       ],
-      "sortNum": 3,
+      "sortNum": 1,
       "status": "1",
       "id": 6
     },
@@ -174,7 +174,7 @@
       "mainImg": "a2f02739-b03a-4efc-bd1f-c48afd5adc68.png",
       "hours": "14",
       "startDate": "2024-07-22",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "将近300个知识点，精辟提炼。把相对枯燥的知识用生动形象的方式表现出来，降低学习记忆的难度，提高学员学习兴趣，形成完整的知识体系。",
       "price": "9600",
       "teacherName": "崔佳",
@@ -184,7 +184,7 @@
         "de0cc6b4-8a16-4de5-b26f-6802663b0020.png",
         "13828c0c-c065-42ba-8497-71ca9b70c9a7.png"
       ],
-      "sortNum": 3,
+      "sortNum": 1,
       "status": "1",
       "id": 7
     },
@@ -196,7 +196,7 @@
       "mainImg": "7bdd4dcb-c089-4f44-af95-667b00de9199.png",
       "hours": "10",
       "startDate": "2024-07-11",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "考试覆盖开源OPENStark和华为云Stark两大模块知识点，华为云Stark架构、产品组件及公共组件介绍，华为云Stark计算、存储、网络等基础IaaS层服务的原理及使用介绍。",
       "price": "4488",
       "teacherName": "韩梅",
@@ -205,7 +205,7 @@
         "59f1040e-6446-49da-84f7-7528326eb638.png",
         "387c4596-b1e7-4a8d-b45f-5a9d15f7ec17.png"
       ],
-      "sortNum": 4,
+      "sortNum": 1,
       "status": "1",
       "id": 8
     },
@@ -217,7 +217,7 @@
       "mainImg": "01edd73c-06d5-4c28-8049-29cedaeb6bfb.png",
       "hours": "26",
       "startDate": "2024-07-25",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "软考高级-信息系统项目管理师",
       "price": "2880",
       "teacherName": "寇翔淋",
@@ -226,7 +226,7 @@
         "0a7dc3de-bc36-4e6c-a3cc-a9632fcccde9.png",
         "1c4be443-957b-434a-be19-c62014c7e4ca.png"
       ],
-      "sortNum": 4,
+      "sortNum": 1,
       "status": "1",
       "id": 9
     },
@@ -238,7 +238,7 @@
       "mainImg": "8cbb78a8-9879-4386-b00a-3e4aaffabc63.png",
       "hours": "15",
       "startDate": "2024-07-04",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "华为安全 HCIA-Security V4.0",
       "price": "1258",
       "teacherName": "丁臣臣",
@@ -247,7 +247,7 @@
         "165ee364-c405-41b9-b605-73ffbb32b458.png",
         "a337bc74-bcc4-4ff1-9212-394c273b0dbd.png"
       ],
-      "sortNum": 5,
+      "sortNum": 1,
       "status": "1",
       "id": 10
     },
@@ -259,7 +259,7 @@
       "mainImg": "f7a4a96a-a084-4f26-b29a-fe90d08b0357.png",
       "hours": "13",
       "startDate": "2024-07-25",
-      "tag": "脱产+周末，全国",
+      "tag": "脱产+周末,全国",
       "intro": "红帽RHCE认证及实战课程V9.0",
       "price": "3383",
       "teacherName": "苏振",
@@ -269,7 +269,7 @@
         "80753354-385b-4624-b844-b8d3129535af.png",
         "19bc16f5-c46c-4c13-bfba-4d1cef8c482f.png"
       ],
-      "sortNum": 5,
+      "sortNum": 1,
       "status": "1",
       "id": 11
     },
@@ -281,7 +281,7 @@
       "mainImg": "8062ba17-1021-4cba-9cd7-a8d49c7ee20d.png",
       "hours": "22",
       "startDate": "2024-07-24",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "红帽 OpenStack 管理二：云运维人员需掌握的运维（CL210",
       "price": "4080",
       "teacherName": "苏振",
@@ -290,7 +290,7 @@
         "3eedcea6-75a1-4eed-ab25-dc55b50351bf.png",
         "0f6d72e5-9925-4b55-8496-c51b2a71bb72.png"
       ],
-      "sortNum": 5,
+      "sortNum": 1,
       "status": "1",
       "id": 12
     },
@@ -302,7 +302,7 @@
       "mainImg": "cc3d9f10-0eeb-44ac-aebb-9e6fdbcd9f1f.png",
       "hours": "33",
       "startDate": "2024-07-01",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "微软认证 Azure 管理员",
       "price": "6970",
       "teacherName": "刘兆生",
@@ -311,7 +311,7 @@
         "7998393f-2f60-45a3-b6a7-4fc08cc7b706.png",
         "67bfe462-ff16-4c6f-9ef8-ef14c4466122.png"
       ],
-      "sortNum": 6,
+      "sortNum": 1,
       "status": "1",
       "id": 13
     },
@@ -323,7 +323,7 @@
       "mainImg": "21671fd2-107d-47f7-89c2-f75f4019d1cd.png",
       "hours": "11",
       "startDate": "2024-07-02",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "阿里云云计算ACP",
       "price": "3800",
       "teacherName": "李晓辉",
@@ -331,7 +331,7 @@
       "description": [
         "dc914dd3-d59f-4232-a002-d28e0d0820dd.png"
       ],
-      "sortNum": 6,
+      "sortNum": 1,
       "status": "1",
       "id": 14
     },
@@ -343,7 +343,7 @@
       "mainImg": "2fd16d04-1c00-45d9-9b7e-e05d55f0c4e6.png",
       "hours": "24",
       "startDate": "2024-07-09",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "达梦课程-DCA-DM8-V1.0",
       "price": "2900",
       "teacherName": "姚老师",
@@ -352,7 +352,7 @@
         "cd4588ec-de7a-46f1-8cc1-11d1504d4e59.png",
         "5436ff32-1acf-4101-8968-c87cf78fac64.png"
       ],
-      "sortNum": 6,
+      "sortNum": 1,
       "status": "1",
       "id": 15
     },
@@ -364,7 +364,7 @@
       "mainImg": "46875388-3871-44c8-bb77-84f41e6e709e.png",
       "hours": "22",
       "startDate": "2024-07-17",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "PGCA初级",
       "price": "1530",
       "teacherName": "孟兆文",
@@ -374,7 +374,7 @@
         "43a551d5-5d35-44d6-a3e0-e82419e19632.png",
         "fe68d4bb-043d-4186-b51d-2e3f4c5d5539.png"
       ],
-      "sortNum": 6,
+      "sortNum": 1,
       "status": "1",
       "id": 16
     },
@@ -386,7 +386,7 @@
       "mainImg": "049f9b00-178f-44f7-a6c6-f008b9f6e167.png",
       "hours": "12",
       "startDate": "2024-07-16",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "Python语言应用编程",
       "price": "7980",
       "teacherName": "林老师",
@@ -396,7 +396,7 @@
         "18eded72-78a1-4c94-a535-11a659ada85d.png",
         "7d771476-9642-4e15-8e88-ad2f1022b680.png"
       ],
-      "sortNum": 7,
+      "sortNum": 1,
       "status": "1",
       "id": 17
     },
@@ -408,7 +408,7 @@
       "mainImg": "2b2bd33c-5bb8-4147-8edc-790c689401d1.png",
       "hours": "48",
       "startDate": "2024-07-23",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "Python人工智能",
       "price": "7980",
       "teacherName": "梁鹏",
@@ -416,7 +416,7 @@
       "description": [
         "c5141981-010f-4050-874f-422dbb257617.png"
       ],
-      "sortNum": 7,
+      "sortNum": 1,
       "status": "1",
       "id": 18
     },
@@ -428,7 +428,7 @@
       "mainImg": "20aee5f2-cb2e-432b-a950-2f4862603896.png",
       "hours": "22",
       "startDate": "2024-07-16",
-      "tag": "周末班，广州",
+      "tag": "周末班,广州",
       "intro": "华为安全HCIP- Security 4.0",
       "price": "4488",
       "teacherName": "丁臣臣",
@@ -437,7 +437,7 @@
         "6b4993fd-6f57-4175-b774-caeeae8f52b8.png",
         "8d2d4c97-3d4b-4faf-9a66-3ba6eed9008c.png"
       ],
-      "sortNum": 7,
+      "sortNum": 1,
       "status": "1",
       "id": 19
     },
@@ -458,7 +458,7 @@
         "33b9f569-5dde-4cf8-8c16-2157eb7405a9.png",
         "bf39e32a-869c-4eed-b65d-3473a587d5bf.png"
       ],
-      "sortNum": 7,
+      "sortNum": 1,
       "status": "1",
       "id": 20
     },
@@ -470,7 +470,7 @@
       "mainImg": "9c04130a-087c-4957-a6dd-f48901a473a7.png",
       "hours": "14",
       "startDate": "2024-07-19",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "容器&Kubernetes认证管理员(CKA)",
       "price": "2680",
       "teacherName": "韩梅",
@@ -479,7 +479,7 @@
         "d57f373f-9680-490b-aa05-344ad1ce80d7.png",
         "41aa3bbc-ad3d-4ee8-af77-cf10e49b9718.png"
       ],
-      "sortNum": 7,
+      "sortNum": 1,
       "status": "1",
       "id": 21
     },
@@ -491,7 +491,7 @@
       "mainImg": "f3c354b9-71ba-48b6-a049-654a3304e497.png",
       "hours": "12",
       "startDate": "2024-07-13",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "产品经理国际资格认证（NPDP）",
       "price": "4488",
       "teacherName": "李老师",
@@ -499,7 +499,7 @@
       "description": [
         "e2d2dd69-6e33-4a93-9e58-1facc0d908a1.png"
       ],
-      "sortNum": 7,
+      "sortNum": 1,
       "status": "1",
       "id": 22
     },
@@ -511,7 +511,7 @@
       "mainImg": "48775410-eb80-4faa-b65e-f1283c9b50de.png",
       "hours": "24",
       "startDate": "2024-07-29",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "PeopleCert ITIL® 4 Foundation认证（中文版）",
       "price": "1980",
       "teacherName": "祝文彬",
@@ -520,7 +520,7 @@
         "118fdf48-b8bb-4bd4-a4c7-cebbe66d926d.png",
         "49937791-01c7-4f39-952a-7b636dec1cbd.png"
       ],
-      "sortNum": 7,
+      "sortNum": 1,
       "status": "1",
       "id": 23
     },
@@ -532,7 +532,7 @@
       "mainImg": "ebad0b1a-0120-40df-91d5-92c48bbcbf4d.png",
       "hours": "10",
       "startDate": "2024-07-20",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "DAMA数据治理工程师CDGA",
       "price": "4000",
       "teacherName": "王老师",
@@ -542,7 +542,7 @@
         "921ec3f4-1dd2-40a8-bc1a-edd2b0ed5e6e.png",
         "f995d538-b230-40ba-93d9-5f5f9301a3a5.png"
       ],
-      "sortNum": 8,
+      "sortNum": 1,
       "status": "1",
       "id": 24
     },
@@ -554,7 +554,7 @@
       "mainImg": "0d52c23f-0973-4fb7-96a7-438dd4e86cfd.png",
       "hours": "48",
       "startDate": "2024-07-02",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "CDSP数据安全认证专家",
       "price": "4250",
       "teacherName": "寇翔淋",
@@ -564,7 +564,7 @@
         "62e38087-78bb-4ab0-9657-8b84495fd90d.png",
         "35aac320-b2c9-4e92-b77e-1ebf98fa6343.png"
       ],
-      "sortNum": 8,
+      "sortNum": 1,
       "status": "1",
       "id": 25
     },
@@ -576,7 +576,7 @@
       "mainImg": "c072b50a-dfab-4511-a8be-5bc1d79ba725.png",
       "hours": "44",
       "startDate": "2024-07-19",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "软考高级-信息系统项目管理师",
       "price": "3655",
       "teacherName": "寇翔淋",
@@ -584,7 +584,7 @@
       "description": [
         "a4a18cb5-7f5b-40ca-9a33-bb433eafefc2.png"
       ],
-      "sortNum": 8,
+      "sortNum": 1,
       "status": "1",
       "id": 26
     },
@@ -596,7 +596,7 @@
       "mainImg": "e754955a-dee0-47bd-a1f5-da29bcd5796a.png",
       "hours": "12",
       "startDate": "2024-07-16",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "KYCA麒麟操作系统运维工程师",
       "price": "2000",
       "teacherName": "苏振",
@@ -604,7 +604,7 @@
       "description": [
         "e7403164-dada-45b7-8e6b-ae9767255d4c.png"
       ],
-      "sortNum": 9,
+      "sortNum": 1,
       "status": "1",
       "id": 27
     },
@@ -616,7 +616,7 @@
       "mainImg": "99a546e6-9303-4e1b-8f27-4cc02d14b13b.png",
       "hours": "20",
       "startDate": "2024-07-31",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "MySQL OCP V8.0",
       "price": "5933",
       "teacherName": "刘老师",
@@ -624,7 +624,7 @@
       "description": [
         "69933b27-ca22-4e22-987d-27e487870ba3.png"
       ],
-      "sortNum": 9,
+      "sortNum": 1,
       "status": "1",
       "id": 28
     },
@@ -644,7 +644,7 @@
       "description": [
         "eedb6969-6f32-4c33-8d4b-d4d8b997a86e.png"
       ],
-      "sortNum": 9,
+      "sortNum": 1,
       "status": "1",
       "id": 29
     },
@@ -656,7 +656,7 @@
       "mainImg": "17d3244e-e45c-420e-b0dd-e9af16537b6e.png",
       "hours": "24",
       "startDate": "2024-07-23",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "VCP-DCV VMware vSphere 安装、配置和管理[V8.x]",
       "price": "10700",
       "teacherName": "赵老师",
@@ -664,7 +664,7 @@
       "description": [
         "bdd77a7e-370b-42d4-9366-9ae62e3a6f4b.png"
       ],
-      "sortNum": 10,
+      "sortNum": 1,
       "status": "1",
       "id": 30
     },
@@ -676,7 +676,7 @@
       "mainImg": "18cef873-2b2c-4458-8297-d74dca91e1c1.png",
       "hours": "36",
       "startDate": "2024-07-12",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "Power BI数据分析师培训（微软PL-300）",
       "price": "3200",
       "teacherName": "赵悦",
@@ -684,7 +684,7 @@
       "description": [
         "90e1aa3e-13f2-4423-805d-c78b2c1713dd.png"
       ],
-      "sortNum": 10,
+      "sortNum": 1,
       "status": "1",
       "id": 31
     },
@@ -696,7 +696,7 @@
       "mainImg": "61e352ae-4e0a-4128-9dd1-e5a0d434d5dd.png",
       "hours": "44",
       "startDate": "2024-07-18",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "CISP注册信息安全专业人员(含考试",
       "price": "9600",
       "teacherName": "崔佳",
@@ -704,7 +704,7 @@
       "description": [
         "889d1b3e-f429-4b54-b6ae-2ada706624aa.png"
       ],
-      "sortNum": 10,
+      "sortNum": 1,
       "status": "1",
       "id": 32
     },
@@ -716,7 +716,7 @@
       "mainImg": "d5c899f4-9628-4d75-93eb-986a6ca0d7fb.png",
       "hours": "10",
       "startDate": "2024-07-29",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "PeopleCert ITIL® 4 Foundation认证（中文版",
       "price": "1680",
       "teacherName": "祝文彬",
@@ -725,7 +725,7 @@
         "f196b411-b961-472c-b151-53b3dbecfc57.png",
         "fc3bd5d4-cd16-48ac-8e20-9d55c4aa73f4.png"
       ],
-      "sortNum": 10,
+      "sortNum": 1,
       "status": "1",
       "id": 33
     },
@@ -737,7 +737,7 @@
       "mainImg": "2a545435-aff9-47e4-b84b-cc45edae4ef4.png",
       "hours": "16",
       "startDate": "2024-07-03",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "CCSK云计算安全知识认证",
       "price": "3825",
       "teacherName": "米小亮",
@@ -746,7 +746,7 @@
         "68cb29af-5a9d-46c4-8745-f900f966e18a.png",
         "46dd1d8d-7583-42f9-b037-2e9afd1f3acb.png"
       ],
-      "sortNum": 10,
+      "sortNum": 1,
       "status": "1",
       "id": 34
     },
@@ -766,7 +766,7 @@
       "description": [
         "9d187c78-dee7-46b3-9804-e5dd26536c2e.png"
       ],
-      "sortNum": 10,
+      "sortNum": 1,
       "status": "1",
       "id": 35
     },
@@ -778,7 +778,7 @@
       "mainImg": "b513590e-d3de-45e0-9b8c-19fa9972f7b5.png",
       "hours": "44",
       "startDate": "2024-07-17",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "红帽 OpenStack 管理二：云运维人员需掌握的运维（CL210）",
       "price": "4080",
       "teacherName": "苏振",
@@ -786,7 +786,7 @@
       "description": [
         "fa428adb-6161-4bb2-842c-8a7e707253a9.png"
       ],
-      "sortNum": 10,
+      "sortNum": 1,
       "status": "1",
       "id": 36
     },
@@ -798,7 +798,7 @@
       "mainImg": "41f347bf-2f3e-42fa-9ae8-dca67d8583a1.png",
       "hours": "12",
       "startDate": "2024-07-24",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "微软认证 Azure 管理员",
       "price": "6970",
       "teacherName": "刘兆生",
@@ -806,7 +806,7 @@
       "description": [
         "f581df81-0806-4995-8357-53dc9332a97a.png"
       ],
-      "sortNum": 10,
+      "sortNum": 1,
       "status": "1",
       "id": 37
     },
@@ -818,7 +818,7 @@
       "mainImg": "2300fce8-957a-44eb-b10b-1bb6004c28a4.png",
       "hours": "22",
       "startDate": "2024-07-30",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "PGCE中级管理",
       "price": "3230",
       "teacherName": "孟兆文",
@@ -826,7 +826,7 @@
       "description": [
         "1dc923bb-e64a-41cd-a2b2-726bd207d144.png"
       ],
-      "sortNum": 11,
+      "sortNum": 1,
       "status": "1",
       "id": 38
     },
@@ -838,7 +838,7 @@
       "mainImg": "7b622073-7ee3-4475-93f2-26d87ff27690.png",
       "hours": "44",
       "startDate": "2024-07-07",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "CISP-PTE渗透测试工程师（含考试）",
       "price": "19800",
       "teacherName": "徐老师",
@@ -846,7 +846,7 @@
       "description": [
         "b99fc941-4e23-4e1e-835c-a68c9234ecd8.png"
       ],
-      "sortNum": 15,
+      "sortNum": 1,
       "status": "1",
       "id": 39
     },
@@ -866,7 +866,7 @@
       "description": [
         "93936478-bf46-47d1-af78-ffbb15ff18a2.png"
       ],
-      "sortNum": 11,
+      "sortNum": 1,
       "status": "1",
       "id": 40
     },
@@ -878,7 +878,7 @@
       "mainImg": "ef8b593b-74e7-4841-b005-22f66e138d4b.png",
       "hours": "22",
       "startDate": "2024-07-01",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "产品经理国际资格认证（NPDP）",
       "price": "4488",
       "teacherName": "李老师",
@@ -886,7 +886,7 @@
       "description": [
         "ea6b32a5-bbb0-4e7e-9af2-bb00dab0c4f8.png"
       ],
-      "sortNum": 11,
+      "sortNum": 1,
       "status": "1",
       "id": 41
     },
@@ -898,7 +898,7 @@
       "mainImg": "3a52f41d-a777-4da5-ab8f-1172cc3a9e0d.png",
       "hours": "24",
       "startDate": "2024-07-09",
-      "tag": "周末班，全国",
+      "tag": "周末班,全国",
       "intro": "华为安全 HCIA-Security V4.0",
       "price": "1258",
       "teacherName": "丁臣臣",
@@ -907,7 +907,7 @@
         "f7d8ba8e-424e-42f6-8ee2-010a12a8f7c0.png",
         "5e217d94-0838-4f1a-8eca-5dce92d6583e.png"
       ],
-      "sortNum": 11,
+      "sortNum": 1,
       "status": "1",
       "id": 42
     },
@@ -927,7 +927,7 @@
       "description": [
         "984ffa3a-9fbc-4462-a99e-75e5d6a9397f.png"
       ],
-      "sortNum": 11,
+      "sortNum": 1,
       "status": "1",
       "id": 43
     },
@@ -939,7 +939,7 @@
       "mainImg": "969a452a-fb6a-4614-abef-27e5a4c02532.png",
       "hours": "12",
       "startDate": "2024-07-17",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "华为数通 HCIP-Datacom V1.0",
       "price": "2125",
       "teacherName": "胡老师",
@@ -948,7 +948,7 @@
         "c77420a7-7b62-4e72-b1d6-7d184718c827.png",
         "ed5b77c4-deaf-46a6-9d7f-82c8e26b328c.png"
       ],
-      "sortNum": 11,
+      "sortNum": 1,
       "status": "1",
       "id": 44
     },
@@ -960,7 +960,7 @@
       "mainImg": "47502636-4fc2-493d-8fc2-5d2c8be51b2d.png",
       "hours": "60",
       "startDate": "2024-07-15",
-      "tag": "周末班，天津",
+      "tag": "周末班,天津",
       "intro": "Windows Server系统管理员实战",
       "price": "5780",
       "teacherName": "孟兆文",
@@ -969,7 +969,7 @@
         "1f0ac6de-4000-44b3-bc98-be9a780c8f77.png",
         "66e7b280-e9d3-4aa0-822c-7c97e912314f.png"
       ],
-      "sortNum": 12,
+      "sortNum": 1,
       "status": "1",
       "id": 45
     },
@@ -981,7 +981,7 @@
       "mainImg": "9ce844ef-cdeb-490d-844b-0ccabb98dce2.png",
       "hours": "16",
       "startDate": "2024-07-30",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "APMG ISO27001 Foundation认证",
       "price": "3825",
       "teacherName": "孟老师",
@@ -989,7 +989,7 @@
       "description": [
         "1cd39fca-3888-4e3f-8253-7c7b2c19e0ea.png"
       ],
-      "sortNum": 12,
+      "sortNum": 1,
       "status": "1",
       "id": 46
     },
@@ -1010,7 +1010,7 @@
         "a0a179fe-a82a-4520-830d-97b875f6ef32.png",
         "2af6de27-aa5f-478e-adcd-efc993ae2974.png"
       ],
-      "sortNum": 12,
+      "sortNum": 1,
       "status": "1",
       "id": 47
     },
@@ -1022,7 +1022,7 @@
       "mainImg": "1fda7467-cd16-47b6-a26f-54b5534590b6.png",
       "hours": "22",
       "startDate": "2024-07-27",
-      "tag": "周末班，北京",
+      "tag": "周末班,北京",
       "intro": "#C142 华为Cloud-HCIA V5.5云计算工程师认证",
       "price": "2125",
       "teacherName": "李老师",
@@ -1031,7 +1031,7 @@
         "23d97808-821a-444b-80d7-f3bb3659c90e.png",
         "e1e269fb-bcec-410b-a5a4-0226e4910f48.png"
       ],
-      "sortNum": 12,
+      "sortNum": 1,
       "status": "1",
       "id": 48
     },
@@ -1043,7 +1043,7 @@
       "mainImg": "d7df4a63-9686-4bd9-9901-611667cbf8c6.png",
       "hours": "10",
       "startDate": "2024-07-23",
-      "tag": "脱产+周末，全国",
+      "tag": "脱产+周末,全国",
       "intro": "红帽RHCE认证及实战课程V9.0",
       "price": "3383",
       "teacherName": "李晓辉",
@@ -1053,7 +1053,7 @@
         "7d9824ea-9f9c-4c30-80c8-09e58cf4bb8f.png",
         "075915e1-14e6-4a3a-b2a6-67338385bdf1.png"
       ],
-      "sortNum": 12,
+      "sortNum": 1,
       "status": "1",
       "id": 49
     },
@@ -1065,7 +1065,7 @@
       "mainImg": "28cc438e-8506-42b0-8d56-e08ac84f9a63.png",
       "hours": "30",
       "startDate": "2024-07-11",
-      "tag": "录播",
+      "tag": "周末",
       "intro": "华为HCIA-PM 项目管理能力认证（含考试",
       "price": "5200",
       "teacherName": " ",
@@ -1075,7 +1075,7 @@
         "eb005a28-d6ab-46c2-9522-63702ea7f65d.png",
         "2ea95fe8-fda7-4be5-85ee-1c33d85c550c.png"
       ],
-      "sortNum": 12,
+      "sortNum": 1,
       "status": "1",
       "id": 50
     },
@@ -1087,7 +1087,7 @@
       "mainImg": "c997d5f7-85d4-4597-8807-bb9e2b80e2b7.png",
       "hours": "64.5",
       "startDate": "2024-07-08",
-      "tag": "录播",
+      "tag": "周末班",
       "intro": "软考中级-网络工程师",
       "price": "2480",
       "teacherName": " ",
@@ -1096,7 +1096,7 @@
         "1a53d8ca-0c86-45ed-86b3-28eb8a115463.png",
         "7d3c5ad9-4d68-48a6-bc22-e071ccec7926.png"
       ],
-      "sortNum": 13,
+      "sortNum": 1,
       "status": "1",
       "id": 51
     },
@@ -1108,7 +1108,7 @@
       "mainImg": "0b4a36af-2fc8-43f1-975e-76c7d134dea5.png",
       "hours": "20",
       "startDate": "2024-07-02",
-      "tag": "录播",
+      "tag": "全国",
       "intro": "Office-Excel商务数据处理与综合应用 (中高级)",
       "price": "299",
       "teacherName": "高杉",
@@ -1117,9 +1117,29 @@
         "b167c682-86d9-4b27-822a-1444afc7a3ee.png",
         "9927f52b-81c9-437f-8217-5d174377c5eb.png"
       ],
-      "sortNum": 14,
+      "sortNum": 1,
       "status": "1",
       "id": 52
+    },
+    {
+      "courseName": "PGCA初级",
+      "direction": "项目管理",
+      "post": "系统工程师",
+      "mode": "面授",
+      "mainImg": "8e9034a5-00cc-44f3-a92a-c33e168cfccd.png",
+      "hours": "22",
+      "startDate": "2024-07-04",
+      "tag": " ",
+      "intro": "PGCA初级",
+      "price": "1530",
+      "teacherName": "孟兆文",
+      "teacherIntro": "孟兆文老师具有十余年企业IT技能培训工作以及项目实战经验。授课幽默、富有活力和亲和力，把与客户的交流和互动放在首位。扎实的理论基础、实践经验和对微软产品的深入研究，可以从客户的日常需求出发进行讲解和演示，解答客户提出的各类问题。并能在课程的一开始便迅速抓住客户心理，有很强的控场及应变能力，深受客户的好评。多年来从事微软、华为、阿里等多家厂商产品，涉及操作系统、数据库、应用服务以及办公软件等多个产品的教学及应用研究；多次支持微软官方市场活动，微软技术大会，并且为多家世界500强企业提供培训及技术支持。积累了丰富的企业实战应用示例，主要涉及教育、银行、保险、医药等诸多行业领域。",
+      "description": [
+        "777d27d1-39e9-47d9-bbfc-aae9ec73793e.png"
+      ],
+      "sortNum": 1,
+      "status": "1",
+      "id": 53
     }
   ],
   "chapters": [
@@ -2648,6 +2668,69 @@
       "sortNum": 1,
       "courseId": 52,
       "id": 218
+    },
+    {
+      "chapterName": "1.1 PostgreSQL",
+      "description": "1.1 PostgreSQL",
+      "sortNum": 1,
+      "courseId": 53,
+      "id": 219
+    },
+    {
+      "chapterName": "1.2 PGCA课程介绍",
+      "description": "1.2 PGCA课程介绍——刘老师",
+      "sortNum": 1,
+      "courseId": 53,
+      "id": 220
+    },
+    {
+      "chapterName": "1.3 PG数据库安装",
+      "description": "1.3 PG数据库安装——刘老师",
+      "sortNum": 1,
+      "courseId": 53,
+      "id": 221
+    },
+    {
+      "chapterName": "1.1 信创建设背景",
+      "description": "1.1 信创建设背景",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 222
+    },
+    {
+      "chapterName": "1.2 信创推进标准策略",
+      "description": "1.2 信创推进标准策略",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 223
+    },
+    {
+      "chapterName": "2.1 信创技术路线",
+      "description": "2.1 信创技术路线",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 224
+    },
+    {
+      "chapterName": "2.2 基础软硬件产业情况",
+      "description": "2.2 基础软硬件产业情况",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 225
+    },
+    {
+      "chapterName": "3.1 适配测试",
+      "description": "3.1 适配测试",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 226
+    },
+    {
+      "chapterName": "3.2 桌面迁移适配",
+      "description": "3.2 桌面迁移适配",
+      "sortNum": 1,
+      "courseId": 54,
+      "id": 227
     }
   ]
 }
