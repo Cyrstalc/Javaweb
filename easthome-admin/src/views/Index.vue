@@ -155,7 +155,9 @@ export default {
 
 .el-menu {
     border-right: 0 !important;
+    
 }
+
 
 .el-menu:not(.el-menu--collapse) {
     width: 200px;

@@ -39,7 +39,7 @@
             <el-table-column label="操作" header-align="center" align="center" width="260" fixed="right">
                 <template slot-scope="scope">
                     <el-button type="warning" size="mini" @click="addUpdateCourse(scope.row.id)">编辑</el-button>
-                    <el-button type="danger" size="mini" @click="deleteCourse(scope.row.id)">删除</el-button>
+                    <el-button type="danger" size="mini" @click="deleteCourse(scope.row)">删除</el-button>
                     <el-button size="mini" @click="showCourseChapter(scope.row)">课程章节</el-button>
                 </template>
             </el-table-column>
@@ -115,46 +115,58 @@ export default {
                     // 刷新表格
                     this.queryCourse();
                 });
-                }).catch(() => {
-                    if (course.status == '0') {
-                        course.status = '1';
-                    } else if (course.status == '1') {
-                        course.status = '0';
-                    };
+            }).catch(() => {
+                if (course.status == '0') {
+                    course.status = '1';
+                } else if (course.status == '1') {
+                    course.status = '0';
+                };
             })
         },
         // 打开新增编辑页
-        addUpdateCourse(id){
+        addUpdateCourse(id) {
             // 不再使用弹窗，而是使用路由导航
-            if(id){
-                this.$router.push({ name:'CourseAddUpdate', params: { id }});
+            if (id) {
+                this.$router.push({ name: 'CourseAddUpdate', params: { id } });
             }
             // this.$router.push('/courseAddUpdate');
-            else{
-                this.$router.push({ name:'CourseAddUpdate' });
+            else {
+                this.$router.push({ name: 'CourseAddUpdate' });
             }
         },
-        deleteCourse(id) {
-            this.$confirm('确定要删除该条数据吗？', '提示', {
-                type: 'warning'
-            }).then(() => {
-                // this.$message.success(id);
-                this.$axios.delete(`/courses/${id}`).then(response => {
-                    // 提示用户
-                    this.$message.success('删除成功');
-                    // 刷新页面 
-                    this.queryCourse();
-                });
-            }).catch(() => { });
+        deleteCourse(row) {
+            if (row.status == '1') {
+                this.$message.error('该课程为已发布课程，不可删除');
+                this.queryCourse();
+            }
+            else {
+                this.$confirm('确定要删除该课程数据吗？', '提示', {
+                    type: 'warning'
+                }).then(() => {
+                    this.$axios.delete(`/courses/${row.id}`).then(response => {
+                        this.$axios.get(`/chapters?courseId=${row.id}`).then(response => {
+                            console.log(response);
+                            for (var i = 0; i <= response.length; i++) {
+                                this.$axios.delete(`/chapters/${response[i].id}`);
+                            }
+                        });
+                        //提示用户
+                        this.$message.success('删除成功');
+                        //刷新
+                        this.queryCourse();
+                    });
+                }
+                ).catch(() => { });
+            }
         },
         // 打开课程章节列表页面
-        showCourseChapter(row){
-            this.$router.push({name:'Chapter',params:{courseName:row.courseName,courseId:row.id}});
+        showCourseChapter(row) {
+            this.$router.push({ name: 'Chapter', params: { courseName: row.courseName, courseId: row.id } });
         }
     },
-     mounted() {
-            this.queryCourse();
-        }
+    mounted() {
+        this.queryCourse();
+    }
 };
 </script>
 <style scoped></style>
