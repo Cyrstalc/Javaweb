@@ -5,7 +5,7 @@
                 <span class="title">方向</span>
                 <div class="filterContent">
                     <span class="filterItem" v-for="(item, index) in directions" :key="index"
-                        @click="selectLink('dir', item, index)" :class="{ activeStyle: index === dirActiveIndex }">
+                        @click="selectLink1('dir', item, index)" :class="{ activeStyle: index === dirActiveIndex }">
                         {{ item }}
                     </span>
                 </div>
@@ -15,7 +15,7 @@
                     <span class="title">岗位</span>
                     <div class="filterContent">
                         <span class="filterItem" v-for="(item, index) in technologys" :key="index"
-                            @click="selectLink('tech', item, index)"
+                            @click="selectLink2('tech', item, index)"
                             :class="{ activeStyle: index === techActiveIndex }">
                             {{ item }}
                         </span>
@@ -24,7 +24,7 @@
                 <div class="way"><span class="title">方式</span>
                     <div class="filterContent">
                         <span class="filterItem" v-for="(item, index) in ways" :key="index"
-                            @click="selectLink('way', item, index)" :class="{ activeStyle: index === wayActiveIndex }">
+                            @click="selectLink3('way', item, index)" :class="{ activeStyle: index === wayActiveIndex }">
                             {{ item }}
                         </span>
                     </div>
@@ -96,35 +96,22 @@ export default {
         }
     },
     methods: {
-        selectLink(type, name, index) {
-            if (type == 'dir') {
+        selectLink1(type, name, index) {
+            console.log(type,name);
                 this.dirActiveIndex = index;
-                this.techActiveIndex = 0;
-                this.wayActiveIndex = 0;
-                this.search = {
-                    direction: name == '全部' ? undefined : name,
-                    technology: undefined,
-                    way: undefined
-                };
-            } else if (type == 'tech') {
-                this.dirActiveIndex = 0;
+                this.search.direction =  name == '全部' ? undefined : name
+            this.queryCourse();
+        },
+        selectLink2(type, name, index) {
+            console.log(type,name);
                 this.techActiveIndex = index;
-                this.wayActiveIndex = 0;
-                this.search = {
-                    direction: undefined,
-                    technology: name == '全部' ? undefined : name,
-                    way: undefined
-                };
-            } else if (type == 'way') {
-                this.dirActiveIndex = 0;
-                this.techActiveIndex = 0;
+                this.search.technology= name == '全部' ? undefined : name,
+            this.queryCourse();
+        },
+        selectLink3(type, name, index) {
+            console.log(type,name);
                 this.wayActiveIndex = index;
-                this.search = {
-                    direction: undefined,
-                    technology: undefined,
-                    way: name == '全部' ? undefined : name
-                };
-            }
+                this.search.way = name == '全部' ? undefined : name
             this.queryCourse();
         },
         handleCurrentChange(page) {

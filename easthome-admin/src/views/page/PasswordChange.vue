@@ -48,11 +48,11 @@ export default {
                     { min: 2, max: 15, message: '长度为 2 到 15 个字符', trigger: 'blur' }
                 ],
                 newPassword: [
-                    { required: true, message: '请输入原始密码', trigger: 'blur' },
+                    { required: true, message: '请输入新密码', trigger: 'blur' },
                     { min: 2, max: 15, message: '长度为 2 到 15 个字符', trigger: 'blur' }
                 ],
                 confirmPassword: [
-                    { required: true, message: '请输入原始密码', trigger: 'blur' },
+                    { required: true, message: '请确认密码', trigger: 'blur' },
                     { min: 2, max: 15, message: '长度为 2 到 15 个字符', trigger: 'blur' }
                 ]
 
@@ -63,7 +63,6 @@ export default {
     methods: {
         getUser() {
             let loginUser = JSON.parse(sessionStorage.getItem('loginUser'));
-            console.log(loginUser);
             this.$axios.get(`/users?username=${loginUser.username}`).then(response => {
                 this.user.username = response.data[0].username;
             });
